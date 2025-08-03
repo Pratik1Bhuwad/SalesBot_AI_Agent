@@ -60,7 +60,7 @@ SalesBot-AI-Agent
 ##  Author
 
 **[Pratik_Bhuwad]**  
-📧 [pratikbhuwad192k4.com]  
+📧 [pratikbhuwad192k4@gmail.com]  
 🔗 [www.linkedin.com/in/pratik-bhuwad-a62576293]
 
 ---
