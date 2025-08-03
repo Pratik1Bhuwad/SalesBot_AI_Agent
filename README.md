@@ -49,6 +49,15 @@ SalesBot-AI-Agent
 
 ---
 
+##  Streamlit App
+
+Launch the app using:
+
+```bash
+streamlit run app.py
+```
+---
+
 How It Works
 
 1. **Load data**:
