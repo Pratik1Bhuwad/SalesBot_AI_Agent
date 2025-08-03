@@ -49,11 +49,26 @@ SalesBot-AI-Agent
 
 ---
 
-##  Future Improvements
+How It Works
 
-- Integrate database support (e.g., SQL)
-- Add chatbot-style interface
-- Deploy full web app with user upload support
+1. **Load data**:
+   - Sales transaction data from Excel
+   - Customer feedback from CSV
+   - Market trends from TXT
+   - Board meeting summary from PDF
+
+2. **Analyze & visualize**:
+   - Monthly & quarterly revenue trends
+   - Top products by revenue and units sold
+   - Region-wise revenue contribution
+
+3. **NLP & Sentiment Analysis**:
+   - VADER sentiment scoring for customer feedback
+   - Classification into Positive, Neutral, Negative
+
+4. **Conversational AI**:
+   - Business queries answered using OpenAI's GPT-3.5 model
+   - Prompts include data summaries, trends, and key stats
 
 ---
 
