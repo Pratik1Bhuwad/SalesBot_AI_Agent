@@ -1,0 +1,5001 @@
+CustomerID,Feedback,SentimentScore
+1,Unresponsive helpline,0.88
+2,Worst delivery experience,0.25
+3,Delay in shipment,0.91
+4,Great support,0.35
+5,Unresponsive helpline,0.2
+6,Amazing product,0.35
+7,Excellent service,0.25
+8,Delay in shipment,0.1
+9,Great support,0.95
+10,Quick resolution,0.35
+11,Loved the quality,0.95
+12,Packaging was damaged,0.35
+13,Unresponsive helpline,0.1
+14,Loved the quality,0.3
+15,Quick resolution,0.9
+16,Packaging was damaged,0.9
+17,Quick resolution,0.3
+18,Excellent service,0.9
+19,Quick resolution,0.91
+20,Loved the quality,0.3
+21,Great support,0.95
+22,Loved the quality,0.3
+23,Delay in shipment,0.95
+24,Packaging was damaged,0.1
+25,Worst delivery experience,0.1
+26,Packaging was damaged,0.9
+27,Amazing product,0.3
+28,Will not recommend,0.3
+29,Great support,0.91
+30,Amazing product,0.35
+31,Delay in shipment,0.9
+32,Unresponsive helpline,0.88
+33,Delay in shipment,0.3
+34,Great support,0.88
+35,Quick resolution,0.2
+36,Great support,0.88
+37,Loved the quality,0.25
+38,Will not recommend,0.88
+39,Amazing product,0.35
+40,Excellent service,0.3
+41,Great support,0.91
+42,Loved the quality,0.95
+43,Delay in shipment,0.92
+44,Loved the quality,0.95
+45,Will not recommend,0.1
+46,Excellent service,0.95
+47,Delay in shipment,0.35
+48,Delay in shipment,0.35
+49,Amazing product,0.88
+50,Packaging was damaged,0.1
+51,Loved the quality,0.91
+52,Will not recommend,0.35
+53,Packaging was damaged,0.2
+54,Excellent service,0.3
+55,Delay in shipment,0.91
+56,Amazing product,0.2
+57,Packaging was damaged,0.88
+58,Excellent service,0.3
+59,Amazing product,0.1
+60,Great support,0.35
+61,Worst delivery experience,0.95
+62,Delay in shipment,0.25
+63,Loved the quality,0.35
+64,Delay in shipment,0.88
+65,Quick resolution,0.35
+66,Delay in shipment,0.88
+67,Amazing product,0.92
+68,Delay in shipment,0.9
+69,Loved the quality,0.35
+70,Will not recommend,0.1
+71,Will not recommend,0.91
+72,Quick resolution,0.35
+73,Packaging was damaged,0.91
+74,Great support,0.2
+75,Excellent service,0.95
+76,Unresponsive helpline,0.3
+77,Will not recommend,0.92
+78,Loved the quality,0.1
+79,Amazing product,0.88
+80,Quick resolution,0.25
+81,Packaging was damaged,0.95
+82,Amazing product,0.35
+83,Worst delivery experience,0.95
+84,Amazing product,0.25
+85,Amazing product,0.95
+86,Quick resolution,0.3
+87,Excellent service,0.9
+88,Loved the quality,0.2
+89,Worst delivery experience,0.25
+90,Packaging was damaged,0.35
+91,Packaging was damaged,0.3
+92,Delay in shipment,0.9
+93,Worst delivery experience,0.35
+94,Amazing product,0.35
+95,Delay in shipment,0.92
+96,Amazing product,0.9
+97,Delay in shipment,0.1
+98,Unresponsive helpline,0.91
+99,Worst delivery experience,0.35
+100,Great support,0.92
+101,Unresponsive helpline,0.88
+102,Worst delivery experience,0.95
+103,Worst delivery experience,0.88
+104,Delay in shipment,0.95
+105,Will not recommend,0.91
+106,Delay in shipment,0.35
+107,Packaging was damaged,0.88
+108,Unresponsive helpline,0.88
+109,Loved the quality,0.95
+110,Excellent service,0.2
+111,Excellent service,0.1
+112,Unresponsive helpline,0.9
+113,Quick resolution,0.25
+114,Great support,0.91
+115,Quick resolution,0.25
+116,Packaging was damaged,0.35
+117,Loved the quality,0.2
+118,Worst delivery experience,0.2
+119,Loved the quality,0.1
+120,Delay in shipment,0.88
+121,Unresponsive helpline,0.91
+122,Will not recommend,0.35
+123,Amazing product,0.95
+124,Unresponsive helpline,0.91
+125,Unresponsive helpline,0.88
+126,Quick resolution,0.9
+127,Delay in shipment,0.2
+128,Amazing product,0.9
+129,Loved the quality,0.2
+130,Amazing product,0.1
+131,Quick resolution,0.2
+132,Will not recommend,0.3
+133,Worst delivery experience,0.35
+134,Will not recommend,0.9
+135,Worst delivery experience,0.91
+136,Delay in shipment,0.92
+137,Delay in shipment,0.92
+138,Great support,0.88
+139,Quick resolution,0.91
+140,Quick resolution,0.95
+141,Will not recommend,0.91
+142,Quick resolution,0.2
+143,Packaging was damaged,0.9
+144,Amazing product,0.92
+145,Great support,0.1
+146,Great support,0.3
+147,Unresponsive helpline,0.92
+148,Will not recommend,0.1
+149,Great support,0.92
+150,Unresponsive helpline,0.92
+151,Unresponsive helpline,0.1
+152,Excellent service,0.1
+153,Excellent service,0.1
+154,Excellent service,0.92
+155,Delay in shipment,0.2
+156,Great support,0.95
+157,Excellent service,0.1
+158,Quick resolution,0.25
+159,Quick resolution,0.9
+160,Great support,0.88
+161,Unresponsive helpline,0.25
+162,Loved the quality,0.35
+163,Will not recommend,0.35
+164,Will not recommend,0.9
+165,Great support,0.91
+166,Worst delivery experience,0.9
+167,Excellent service,0.92
+168,Will not recommend,0.35
+169,Unresponsive helpline,0.95
+170,Quick resolution,0.91
+171,Amazing product,0.88
+172,Unresponsive helpline,0.95
+173,Loved the quality,0.35
+174,Delay in shipment,0.88
+175,Will not recommend,0.92
+176,Loved the quality,0.92
+177,Delay in shipment,0.88
+178,Loved the quality,0.9
+179,Great support,0.9
+180,Amazing product,0.95
+181,Quick resolution,0.25
+182,Unresponsive helpline,0.2
+183,Worst delivery experience,0.9
+184,Will not recommend,0.88
+185,Delay in shipment,0.1
+186,Delay in shipment,0.1
+187,Packaging was damaged,0.25
+188,Packaging was damaged,0.91
+189,Will not recommend,0.25
+190,Delay in shipment,0.88
+191,Quick resolution,0.1
+192,Great support,0.95
+193,Packaging was damaged,0.95
+194,Packaging was damaged,0.25
+195,Worst delivery experience,0.88
+196,Great support,0.2
+197,Loved the quality,0.91
+198,Great support,0.1
+199,Worst delivery experience,0.88
+200,Amazing product,0.91
+201,Quick resolution,0.95
+202,Unresponsive helpline,0.9
+203,Unresponsive helpline,0.1
+204,Amazing product,0.2
+205,Amazing product,0.35
+206,Loved the quality,0.1
+207,Amazing product,0.3
+208,Great support,0.2
+209,Great support,0.2
+210,Packaging was damaged,0.35
+211,Worst delivery experience,0.91
+212,Great support,0.35
+213,Quick resolution,0.3
+214,Unresponsive helpline,0.91
+215,Excellent service,0.2
+216,Unresponsive helpline,0.35
+217,Loved the quality,0.88
+218,Quick resolution,0.9
+219,Amazing product,0.3
+220,Loved the quality,0.88
+221,Worst delivery experience,0.91
+222,Worst delivery experience,0.92
+223,Loved the quality,0.2
+224,Unresponsive helpline,0.25
+225,Great support,0.91
+226,Delay in shipment,0.2
+227,Quick resolution,0.1
+228,Unresponsive helpline,0.1
+229,Unresponsive helpline,0.95
+230,Loved the quality,0.3
+231,Excellent service,0.95
+232,Quick resolution,0.95
+233,Loved the quality,0.92
+234,Packaging was damaged,0.88
+235,Quick resolution,0.9
+236,Great support,0.88
+237,Delay in shipment,0.92
+238,Delay in shipment,0.1
+239,Delay in shipment,0.25
+240,Excellent service,0.88
+241,Great support,0.95
+242,Great support,0.95
+243,Great support,0.88
+244,Loved the quality,0.35
+245,Delay in shipment,0.91
+246,Quick resolution,0.25
+247,Quick resolution,0.35
+248,Will not recommend,0.35
+249,Quick resolution,0.91
+250,Worst delivery experience,0.3
+251,Packaging was damaged,0.91
+252,Worst delivery experience,0.25
+253,Excellent service,0.9
+254,Delay in shipment,0.3
+255,Worst delivery experience,0.88
+256,Quick resolution,0.9
+257,Delay in shipment,0.9
+258,Packaging was damaged,0.25
+259,Will not recommend,0.92
+260,Loved the quality,0.92
+261,Will not recommend,0.25
+262,Amazing product,0.35
+263,Amazing product,0.92
+264,Packaging was damaged,0.95
+265,Amazing product,0.92
+266,Excellent service,0.25
+267,Unresponsive helpline,0.91
+268,Quick resolution,0.35
+269,Loved the quality,0.1
+270,Unresponsive helpline,0.9
+271,Worst delivery experience,0.25
+272,Excellent service,0.92
+273,Worst delivery experience,0.2
+274,Unresponsive helpline,0.95
+275,Amazing product,0.25
+276,Quick resolution,0.2
+277,Unresponsive helpline,0.9
+278,Quick resolution,0.91
+279,Amazing product,0.95
+280,Will not recommend,0.25
+281,Excellent service,0.2
+282,Worst delivery experience,0.25
+283,Quick resolution,0.2
+284,Quick resolution,0.88
+285,Quick resolution,0.9
+286,Packaging was damaged,0.3
+287,Delay in shipment,0.95
+288,Amazing product,0.1
+289,Unresponsive helpline,0.95
+290,Excellent service,0.1
+291,Packaging was damaged,0.25
+292,Will not recommend,0.25
+293,Packaging was damaged,0.2
+294,Delay in shipment,0.3
+295,Amazing product,0.2
+296,Amazing product,0.25
+297,Loved the quality,0.88
+298,Amazing product,0.88
+299,Will not recommend,0.1
+300,Loved the quality,0.9
+301,Great support,0.92
+302,Quick resolution,0.95
+303,Great support,0.1
+304,Excellent service,0.3
+305,Amazing product,0.3
+306,Excellent service,0.95
+307,Amazing product,0.88
+308,Delay in shipment,0.92
+309,Packaging was damaged,0.95
+310,Great support,0.92
+311,Amazing product,0.25
+312,Packaging was damaged,0.1
+313,Quick resolution,0.25
+314,Unresponsive helpline,0.2
+315,Worst delivery experience,0.95
+316,Amazing product,0.2
+317,Delay in shipment,0.35
+318,Will not recommend,0.92
+319,Great support,0.3
+320,Loved the quality,0.25
+321,Loved the quality,0.92
+322,Packaging was damaged,0.3
+323,Great support,0.25
+324,Excellent service,0.95
+325,Loved the quality,0.91
+326,Amazing product,0.2
+327,Loved the quality,0.25
+328,Quick resolution,0.91
+329,Amazing product,0.1
+330,Excellent service,0.25
+331,Will not recommend,0.91
+332,Delay in shipment,0.3
+333,Worst delivery experience,0.2
+334,Will not recommend,0.9
+335,Quick resolution,0.25
+336,Excellent service,0.92
+337,Packaging was damaged,0.3
+338,Worst delivery experience,0.9
+339,Quick resolution,0.9
+340,Great support,0.1
+341,Great support,0.1
+342,Worst delivery experience,0.88
+343,Packaging was damaged,0.25
+344,Quick resolution,0.92
+345,Unresponsive helpline,0.25
+346,Excellent service,0.91
+347,Loved the quality,0.3
+348,Loved the quality,0.2
+349,Delay in shipment,0.92
+350,Amazing product,0.2
+351,Unresponsive helpline,0.1
+352,Quick resolution,0.2
+353,Delay in shipment,0.35
+354,Quick resolution,0.1
+355,Loved the quality,0.1
+356,Unresponsive helpline,0.95
+357,Loved the quality,0.2
+358,Unresponsive helpline,0.92
+359,Great support,0.1
+360,Great support,0.92
+361,Will not recommend,0.1
+362,Packaging was damaged,0.9
+363,Worst delivery experience,0.92
+364,Amazing product,0.91
+365,Amazing product,0.2
+366,Worst delivery experience,0.35
+367,Delay in shipment,0.25
+368,Packaging was damaged,0.9
+369,Loved the quality,0.2
+370,Delay in shipment,0.95
+371,Packaging was damaged,0.95
+372,Quick resolution,0.3
+373,Packaging was damaged,0.35
+374,Great support,0.88
+375,Will not recommend,0.25
+376,Loved the quality,0.25
+377,Great support,0.1
+378,Amazing product,0.95
+379,Great support,0.25
+380,Delay in shipment,0.1
+381,Loved the quality,0.95
+382,Loved the quality,0.9
+383,Worst delivery experience,0.92
+384,Amazing product,0.1
+385,Excellent service,0.1
+386,Great support,0.25
+387,Great support,0.25
+388,Delay in shipment,0.35
+389,Unresponsive helpline,0.3
+390,Delay in shipment,0.3
+391,Great support,0.25
+392,Packaging was damaged,0.9
+393,Excellent service,0.25
+394,Amazing product,0.3
+395,Great support,0.1
+396,Worst delivery experience,0.91
+397,Excellent service,0.2
+398,Great support,0.1
+399,Great support,0.95
+400,Quick resolution,0.3
+401,Excellent service,0.91
+402,Delay in shipment,0.88
+403,Unresponsive helpline,0.91
+404,Delay in shipment,0.91
+405,Amazing product,0.1
+406,Unresponsive helpline,0.91
+407,Great support,0.91
+408,Unresponsive helpline,0.88
+409,Great support,0.25
+410,Will not recommend,0.2
+411,Will not recommend,0.91
+412,Delay in shipment,0.2
+413,Loved the quality,0.25
+414,Unresponsive helpline,0.2
+415,Delay in shipment,0.25
+416,Will not recommend,0.9
+417,Unresponsive helpline,0.2
+418,Packaging was damaged,0.35
+419,Excellent service,0.35
+420,Packaging was damaged,0.95
+421,Quick resolution,0.88
+422,Will not recommend,0.95
+423,Amazing product,0.3
+424,Unresponsive helpline,0.35
+425,Great support,0.25
+426,Great support,0.25
+427,Excellent service,0.1
+428,Excellent service,0.88
+429,Amazing product,0.92
+430,Loved the quality,0.35
+431,Amazing product,0.25
+432,Great support,0.9
+433,Excellent service,0.35
+434,Will not recommend,0.3
+435,Great support,0.9
+436,Quick resolution,0.9
+437,Delay in shipment,0.3
+438,Quick resolution,0.35
+439,Delay in shipment,0.95
+440,Unresponsive helpline,0.2
+441,Quick resolution,0.3
+442,Delay in shipment,0.1
+443,Quick resolution,0.91
+444,Loved the quality,0.25
+445,Excellent service,0.1
+446,Excellent service,0.25
+447,Unresponsive helpline,0.88
+448,Packaging was damaged,0.35
+449,Great support,0.88
+450,Worst delivery experience,0.35
+451,Worst delivery experience,0.9
+452,Great support,0.35
+453,Unresponsive helpline,0.88
+454,Unresponsive helpline,0.35
+455,Will not recommend,0.2
+456,Delay in shipment,0.35
+457,Quick resolution,0.2
+458,Unresponsive helpline,0.95
+459,Will not recommend,0.1
+460,Great support,0.1
+461,Quick resolution,0.1
+462,Amazing product,0.92
+463,Unresponsive helpline,0.3
+464,Worst delivery experience,0.91
+465,Quick resolution,0.91
+466,Excellent service,0.91
+467,Will not recommend,0.9
+468,Great support,0.1
+469,Excellent service,0.9
+470,Amazing product,0.9
+471,Quick resolution,0.1
+472,Packaging was damaged,0.92
+473,Loved the quality,0.35
+474,Unresponsive helpline,0.35
+475,Loved the quality,0.9
+476,Loved the quality,0.2
+477,Great support,0.35
+478,Worst delivery experience,0.3
+479,Quick resolution,0.91
+480,Will not recommend,0.2
+481,Great support,0.3
+482,Packaging was damaged,0.2
+483,Excellent service,0.92
+484,Packaging was damaged,0.9
+485,Will not recommend,0.3
+486,Unresponsive helpline,0.91
+487,Worst delivery experience,0.1
+488,Loved the quality,0.92
+489,Delay in shipment,0.91
+490,Unresponsive helpline,0.92
+491,Delay in shipment,0.1
+492,Great support,0.91
+493,Will not recommend,0.25
+494,Packaging was damaged,0.95
+495,Packaging was damaged,0.9
+496,Great support,0.92
+497,Loved the quality,0.9
+498,Loved the quality,0.1
+499,Worst delivery experience,0.95
+500,Great support,0.2
+501,Delay in shipment,0.2
+502,Great support,0.3
+503,Worst delivery experience,0.35
+504,Will not recommend,0.2
+505,Amazing product,0.35
+506,Worst delivery experience,0.95
+507,Great support,0.25
+508,Excellent service,0.9
+509,Unresponsive helpline,0.25
+510,Loved the quality,0.9
+511,Worst delivery experience,0.95
+512,Loved the quality,0.3
+513,Will not recommend,0.9
+514,Unresponsive helpline,0.25
+515,Unresponsive helpline,0.95
+516,Excellent service,0.91
+517,Packaging was damaged,0.91
+518,Quick resolution,0.35
+519,Worst delivery experience,0.92
+520,Loved the quality,0.92
+521,Will not recommend,0.35
+522,Great support,0.88
+523,Delay in shipment,0.25
+524,Delay in shipment,0.9
+525,Unresponsive helpline,0.1
+526,Great support,0.95
+527,Amazing product,0.92
+528,Packaging was damaged,0.95
+529,Quick resolution,0.2
+530,Worst delivery experience,0.25
+531,Amazing product,0.9
+532,Will not recommend,0.1
+533,Worst delivery experience,0.3
+534,Delay in shipment,0.35
+535,Loved the quality,0.25
+536,Quick resolution,0.95
+537,Packaging was damaged,0.2
+538,Great support,0.35
+539,Great support,0.25
+540,Great support,0.25
+541,Excellent service,0.9
+542,Packaging was damaged,0.3
+543,Will not recommend,0.1
+544,Excellent service,0.3
+545,Loved the quality,0.3
+546,Loved the quality,0.2
+547,Worst delivery experience,0.35
+548,Excellent service,0.25
+549,Worst delivery experience,0.91
+550,Unresponsive helpline,0.95
+551,Will not recommend,0.95
+552,Unresponsive helpline,0.91
+553,Amazing product,0.3
+554,Worst delivery experience,0.88
+555,Amazing product,0.2
+556,Worst delivery experience,0.1
+557,Will not recommend,0.95
+558,Amazing product,0.88
+559,Delay in shipment,0.35
+560,Amazing product,0.9
+561,Loved the quality,0.1
+562,Worst delivery experience,0.3
+563,Worst delivery experience,0.95
+564,Will not recommend,0.88
+565,Quick resolution,0.91
+566,Loved the quality,0.95
+567,Delay in shipment,0.2
+568,Unresponsive helpline,0.2
+569,Loved the quality,0.35
+570,Unresponsive helpline,0.92
+571,Excellent service,0.35
+572,Quick resolution,0.95
+573,Loved the quality,0.35
+574,Packaging was damaged,0.35
+575,Delay in shipment,0.88
+576,Packaging was damaged,0.2
+577,Worst delivery experience,0.35
+578,Quick resolution,0.91
+579,Amazing product,0.91
+580,Loved the quality,0.2
+581,Will not recommend,0.92
+582,Delay in shipment,0.88
+583,Will not recommend,0.92
+584,Worst delivery experience,0.9
+585,Loved the quality,0.95
+586,Loved the quality,0.88
+587,Delay in shipment,0.25
+588,Excellent service,0.35
+589,Excellent service,0.88
+590,Will not recommend,0.91
+591,Will not recommend,0.2
+592,Quick resolution,0.92
+593,Great support,0.9
+594,Packaging was damaged,0.2
+595,Will not recommend,0.9
+596,Loved the quality,0.3
+597,Amazing product,0.2
+598,Quick resolution,0.2
+599,Quick resolution,0.25
+600,Worst delivery experience,0.9
+601,Will not recommend,0.9
+602,Will not recommend,0.3
+603,Amazing product,0.92
+604,Worst delivery experience,0.9
+605,Packaging was damaged,0.35
+606,Delay in shipment,0.1
+607,Amazing product,0.9
+608,Great support,0.25
+609,Great support,0.3
+610,Delay in shipment,0.92
+611,Packaging was damaged,0.9
+612,Excellent service,0.92
+613,Worst delivery experience,0.88
+614,Will not recommend,0.9
+615,Packaging was damaged,0.9
+616,Packaging was damaged,0.95
+617,Excellent service,0.2
+618,Delay in shipment,0.3
+619,Quick resolution,0.91
+620,Unresponsive helpline,0.9
+621,Unresponsive helpline,0.1
+622,Unresponsive helpline,0.92
+623,Worst delivery experience,0.91
+624,Excellent service,0.3
+625,Quick resolution,0.3
+626,Loved the quality,0.35
+627,Delay in shipment,0.88
+628,Will not recommend,0.35
+629,Will not recommend,0.3
+630,Loved the quality,0.88
+631,Unresponsive helpline,0.1
+632,Amazing product,0.9
+633,Packaging was damaged,0.9
+634,Excellent service,0.88
+635,Worst delivery experience,0.35
+636,Amazing product,0.2
+637,Amazing product,0.95
+638,Will not recommend,0.35
+639,Will not recommend,0.91
+640,Delay in shipment,0.9
+641,Great support,0.91
+642,Amazing product,0.35
+643,Unresponsive helpline,0.3
+644,Worst delivery experience,0.1
+645,Loved the quality,0.1
+646,Quick resolution,0.1
+647,Will not recommend,0.2
+648,Delay in shipment,0.91
+649,Worst delivery experience,0.92
+650,Worst delivery experience,0.92
+651,Worst delivery experience,0.2
+652,Excellent service,0.92
+653,Quick resolution,0.35
+654,Delay in shipment,0.2
+655,Quick resolution,0.95
+656,Delay in shipment,0.35
+657,Quick resolution,0.91
+658,Excellent service,0.91
+659,Amazing product,0.91
+660,Delay in shipment,0.92
+661,Will not recommend,0.1
+662,Quick resolution,0.95
+663,Delay in shipment,0.9
+664,Amazing product,0.25
+665,Delay in shipment,0.91
+666,Loved the quality,0.3
+667,Loved the quality,0.9
+668,Great support,0.2
+669,Worst delivery experience,0.92
+670,Quick resolution,0.2
+671,Quick resolution,0.91
+672,Great support,0.1
+673,Quick resolution,0.91
+674,Delay in shipment,0.9
+675,Quick resolution,0.3
+676,Unresponsive helpline,0.91
+677,Worst delivery experience,0.95
+678,Excellent service,0.88
+679,Delay in shipment,0.2
+680,Delay in shipment,0.91
+681,Will not recommend,0.9
+682,Will not recommend,0.35
+683,Excellent service,0.92
+684,Delay in shipment,0.2
+685,Packaging was damaged,0.91
+686,Unresponsive helpline,0.9
+687,Amazing product,0.35
+688,Packaging was damaged,0.91
+689,Worst delivery experience,0.25
+690,Great support,0.1
+691,Will not recommend,0.92
+692,Packaging was damaged,0.35
+693,Delay in shipment,0.9
+694,Excellent service,0.92
+695,Unresponsive helpline,0.35
+696,Unresponsive helpline,0.9
+697,Excellent service,0.1
+698,Will not recommend,0.2
+699,Loved the quality,0.1
+700,Loved the quality,0.91
+701,Loved the quality,0.88
+702,Great support,0.3
+703,Packaging was damaged,0.9
+704,Packaging was damaged,0.3
+705,Worst delivery experience,0.91
+706,Loved the quality,0.91
+707,Worst delivery experience,0.35
+708,Delay in shipment,0.91
+709,Loved the quality,0.91
+710,Delay in shipment,0.35
+711,Will not recommend,0.92
+712,Unresponsive helpline,0.9
+713,Unresponsive helpline,0.95
+714,Delay in shipment,0.3
+715,Loved the quality,0.95
+716,Excellent service,0.95
+717,Packaging was damaged,0.35
+718,Loved the quality,0.92
+719,Quick resolution,0.88
+720,Quick resolution,0.95
+721,Great support,0.95
+722,Packaging was damaged,0.25
+723,Quick resolution,0.35
+724,Amazing product,0.25
+725,Great support,0.35
+726,Unresponsive helpline,0.35
+727,Loved the quality,0.1
+728,Delay in shipment,0.88
+729,Quick resolution,0.2
+730,Unresponsive helpline,0.9
+731,Packaging was damaged,0.3
+732,Worst delivery experience,0.95
+733,Will not recommend,0.91
+734,Excellent service,0.91
+735,Unresponsive helpline,0.3
+736,Delay in shipment,0.95
+737,Great support,0.95
+738,Will not recommend,0.35
+739,Will not recommend,0.2
+740,Excellent service,0.95
+741,Quick resolution,0.1
+742,Quick resolution,0.2
+743,Amazing product,0.88
+744,Excellent service,0.3
+745,Excellent service,0.88
+746,Great support,0.88
+747,Packaging was damaged,0.3
+748,Loved the quality,0.2
+749,Amazing product,0.91
+750,Worst delivery experience,0.1
+751,Delay in shipment,0.1
+752,Delay in shipment,0.9
+753,Excellent service,0.95
+754,Excellent service,0.25
+755,Quick resolution,0.3
+756,Great support,0.91
+757,Delay in shipment,0.25
+758,Great support,0.88
+759,Loved the quality,0.91
+760,Great support,0.2
+761,Loved the quality,0.3
+762,Packaging was damaged,0.92
+763,Unresponsive helpline,0.92
+764,Unresponsive helpline,0.95
+765,Quick resolution,0.91
+766,Loved the quality,0.91
+767,Great support,0.92
+768,Packaging was damaged,0.1
+769,Loved the quality,0.9
+770,Delay in shipment,0.25
+771,Great support,0.88
+772,Will not recommend,0.92
+773,Delay in shipment,0.95
+774,Great support,0.88
+775,Great support,0.95
+776,Amazing product,0.95
+777,Worst delivery experience,0.91
+778,Amazing product,0.35
+779,Quick resolution,0.88
+780,Great support,0.2
+781,Great support,0.25
+782,Loved the quality,0.88
+783,Excellent service,0.92
+784,Worst delivery experience,0.25
+785,Excellent service,0.2
+786,Packaging was damaged,0.35
+787,Unresponsive helpline,0.3
+788,Loved the quality,0.88
+789,Will not recommend,0.35
+790,Packaging was damaged,0.35
+791,Worst delivery experience,0.92
+792,Amazing product,0.92
+793,Loved the quality,0.2
+794,Worst delivery experience,0.88
+795,Unresponsive helpline,0.88
+796,Worst delivery experience,0.25
+797,Will not recommend,0.3
+798,Delay in shipment,0.91
+799,Unresponsive helpline,0.1
+800,Unresponsive helpline,0.9
+801,Excellent service,0.9
+802,Will not recommend,0.2
+803,Packaging was damaged,0.1
+804,Excellent service,0.88
+805,Worst delivery experience,0.1
+806,Will not recommend,0.2
+807,Great support,0.88
+808,Will not recommend,0.9
+809,Delay in shipment,0.95
+810,Worst delivery experience,0.25
+811,Quick resolution,0.25
+812,Will not recommend,0.1
+813,Amazing product,0.95
+814,Loved the quality,0.35
+815,Great support,0.3
+816,Unresponsive helpline,0.92
+817,Quick resolution,0.25
+818,Delay in shipment,0.25
+819,Will not recommend,0.88
+820,Worst delivery experience,0.92
+821,Quick resolution,0.35
+822,Packaging was damaged,0.25
+823,Great support,0.92
+824,Worst delivery experience,0.9
+825,Worst delivery experience,0.91
+826,Packaging was damaged,0.91
+827,Quick resolution,0.1
+828,Quick resolution,0.95
+829,Packaging was damaged,0.88
+830,Amazing product,0.3
+831,Excellent service,0.35
+832,Great support,0.88
+833,Unresponsive helpline,0.25
+834,Delay in shipment,0.92
+835,Amazing product,0.92
+836,Unresponsive helpline,0.35
+837,Delay in shipment,0.88
+838,Will not recommend,0.92
+839,Loved the quality,0.92
+840,Will not recommend,0.3
+841,Packaging was damaged,0.95
+842,Delay in shipment,0.88
+843,Quick resolution,0.88
+844,Excellent service,0.35
+845,Quick resolution,0.1
+846,Will not recommend,0.2
+847,Will not recommend,0.2
+848,Delay in shipment,0.35
+849,Unresponsive helpline,0.91
+850,Great support,0.92
+851,Worst delivery experience,0.88
+852,Will not recommend,0.2
+853,Packaging was damaged,0.35
+854,Quick resolution,0.35
+855,Excellent service,0.1
+856,Delay in shipment,0.35
+857,Unresponsive helpline,0.35
+858,Great support,0.3
+859,Great support,0.92
+860,Loved the quality,0.3
+861,Worst delivery experience,0.35
+862,Unresponsive helpline,0.91
+863,Packaging was damaged,0.92
+864,Quick resolution,0.92
+865,Packaging was damaged,0.9
+866,Packaging was damaged,0.88
+867,Worst delivery experience,0.92
+868,Will not recommend,0.2
+869,Delay in shipment,0.91
+870,Packaging was damaged,0.92
+871,Worst delivery experience,0.88
+872,Packaging was damaged,0.88
+873,Amazing product,0.1
+874,Delay in shipment,0.25
+875,Packaging was damaged,0.3
+876,Packaging was damaged,0.88
+877,Great support,0.9
+878,Great support,0.91
+879,Unresponsive helpline,0.25
+880,Quick resolution,0.1
+881,Worst delivery experience,0.91
+882,Amazing product,0.2
+883,Worst delivery experience,0.3
+884,Loved the quality,0.95
+885,Quick resolution,0.25
+886,Unresponsive helpline,0.3
+887,Great support,0.3
+888,Excellent service,0.88
+889,Excellent service,0.35
+890,Delay in shipment,0.9
+891,Worst delivery experience,0.25
+892,Amazing product,0.2
+893,Amazing product,0.95
+894,Loved the quality,0.2
+895,Amazing product,0.91
+896,Quick resolution,0.92
+897,Unresponsive helpline,0.92
+898,Excellent service,0.35
+899,Quick resolution,0.9
+900,Excellent service,0.95
+901,Amazing product,0.25
+902,Great support,0.88
+903,Great support,0.25
+904,Will not recommend,0.91
+905,Loved the quality,0.2
+906,Amazing product,0.92
+907,Great support,0.2
+908,Excellent service,0.25
+909,Unresponsive helpline,0.3
+910,Amazing product,0.3
+911,Amazing product,0.1
+912,Loved the quality,0.25
+913,Loved the quality,0.88
+914,Worst delivery experience,0.95
+915,Packaging was damaged,0.88
+916,Packaging was damaged,0.1
+917,Delay in shipment,0.9
+918,Excellent service,0.92
+919,Delay in shipment,0.25
+920,Amazing product,0.35
+921,Worst delivery experience,0.25
+922,Great support,0.92
+923,Amazing product,0.1
+924,Packaging was damaged,0.91
+925,Loved the quality,0.35
+926,Will not recommend,0.91
+927,Great support,0.3
+928,Unresponsive helpline,0.2
+929,Great support,0.25
+930,Worst delivery experience,0.92
+931,Excellent service,0.2
+932,Packaging was damaged,0.35
+933,Quick resolution,0.9
+934,Excellent service,0.95
+935,Worst delivery experience,0.35
+936,Will not recommend,0.25
+937,Excellent service,0.95
+938,Delay in shipment,0.9
+939,Delay in shipment,0.35
+940,Amazing product,0.1
+941,Delay in shipment,0.9
+942,Unresponsive helpline,0.88
+943,Amazing product,0.35
+944,Excellent service,0.91
+945,Great support,0.35
+946,Packaging was damaged,0.88
+947,Excellent service,0.2
+948,Worst delivery experience,0.1
+949,Loved the quality,0.3
+950,Great support,0.92
+951,Unresponsive helpline,0.2
+952,Will not recommend,0.1
+953,Amazing product,0.1
+954,Loved the quality,0.1
+955,Unresponsive helpline,0.88
+956,Worst delivery experience,0.3
+957,Quick resolution,0.91
+958,Amazing product,0.25
+959,Quick resolution,0.1
+960,Unresponsive helpline,0.91
+961,Excellent service,0.25
+962,Delay in shipment,0.92
+963,Delay in shipment,0.91
+964,Delay in shipment,0.92
+965,Quick resolution,0.25
+966,Quick resolution,0.3
+967,Unresponsive helpline,0.92
+968,Great support,0.3
+969,Loved the quality,0.2
+970,Great support,0.3
+971,Excellent service,0.92
+972,Quick resolution,0.35
+973,Packaging was damaged,0.3
+974,Unresponsive helpline,0.1
+975,Delay in shipment,0.3
+976,Excellent service,0.35
+977,Unresponsive helpline,0.88
+978,Worst delivery experience,0.88
+979,Loved the quality,0.3
+980,Loved the quality,0.92
+981,Will not recommend,0.9
+982,Loved the quality,0.92
+983,Great support,0.1
+984,Delay in shipment,0.92
+985,Packaging was damaged,0.3
+986,Worst delivery experience,0.35
+987,Worst delivery experience,0.92
+988,Amazing product,0.25
+989,Excellent service,0.2
+990,Great support,0.35
+991,Quick resolution,0.2
+992,Excellent service,0.35
+993,Amazing product,0.3
+994,Loved the quality,0.95
+995,Packaging was damaged,0.35
+996,Loved the quality,0.9
+997,Great support,0.88
+998,Unresponsive helpline,0.9
+999,Loved the quality,0.1
+1000,Worst delivery experience,0.3
+1001,Unresponsive helpline,0.91
+1002,Delay in shipment,0.88
+1003,Worst delivery experience,0.3
+1004,Unresponsive helpline,0.2
+1005,Excellent service,0.92
+1006,Excellent service,0.25
+1007,Excellent service,0.2
+1008,Delay in shipment,0.91
+1009,Loved the quality,0.92
+1010,Unresponsive helpline,0.35
+1011,Excellent service,0.88
+1012,Packaging was damaged,0.91
+1013,Will not recommend,0.88
+1014,Excellent service,0.3
+1015,Amazing product,0.92
+1016,Amazing product,0.9
+1017,Packaging was damaged,0.95
+1018,Worst delivery experience,0.9
+1019,Unresponsive helpline,0.95
+1020,Unresponsive helpline,0.92
+1021,Great support,0.88
+1022,Great support,0.91
+1023,Quick resolution,0.3
+1024,Amazing product,0.1
+1025,Worst delivery experience,0.1
+1026,Amazing product,0.95
+1027,Amazing product,0.88
+1028,Will not recommend,0.9
+1029,Packaging was damaged,0.95
+1030,Unresponsive helpline,0.3
+1031,Packaging was damaged,0.91
+1032,Quick resolution,0.35
+1033,Worst delivery experience,0.35
+1034,Great support,0.88
+1035,Will not recommend,0.95
+1036,Loved the quality,0.92
+1037,Will not recommend,0.3
+1038,Will not recommend,0.3
+1039,Loved the quality,0.88
+1040,Quick resolution,0.2
+1041,Packaging was damaged,0.92
+1042,Unresponsive helpline,0.88
+1043,Worst delivery experience,0.9
+1044,Loved the quality,0.2
+1045,Unresponsive helpline,0.95
+1046,Great support,0.92
+1047,Excellent service,0.92
+1048,Amazing product,0.3
+1049,Amazing product,0.25
+1050,Packaging was damaged,0.2
+1051,Delay in shipment,0.3
+1052,Will not recommend,0.92
+1053,Loved the quality,0.91
+1054,Quick resolution,0.9
+1055,Quick resolution,0.95
+1056,Will not recommend,0.3
+1057,Packaging was damaged,0.1
+1058,Will not recommend,0.35
+1059,Packaging was damaged,0.88
+1060,Great support,0.3
+1061,Delay in shipment,0.3
+1062,Great support,0.35
+1063,Delay in shipment,0.95
+1064,Delay in shipment,0.92
+1065,Great support,0.9
+1066,Will not recommend,0.25
+1067,Excellent service,0.92
+1068,Quick resolution,0.88
+1069,Worst delivery experience,0.25
+1070,Quick resolution,0.25
+1071,Excellent service,0.2
+1072,Unresponsive helpline,0.2
+1073,Amazing product,0.1
+1074,Great support,0.92
+1075,Excellent service,0.9
+1076,Loved the quality,0.1
+1077,Loved the quality,0.95
+1078,Amazing product,0.25
+1079,Great support,0.35
+1080,Worst delivery experience,0.9
+1081,Packaging was damaged,0.25
+1082,Will not recommend,0.95
+1083,Will not recommend,0.9
+1084,Excellent service,0.91
+1085,Quick resolution,0.35
+1086,Great support,0.95
+1087,Loved the quality,0.91
+1088,Will not recommend,0.88
+1089,Quick resolution,0.95
+1090,Amazing product,0.95
+1091,Packaging was damaged,0.92
+1092,Packaging was damaged,0.3
+1093,Great support,0.25
+1094,Delay in shipment,0.2
+1095,Great support,0.35
+1096,Unresponsive helpline,0.25
+1097,Will not recommend,0.95
+1098,Will not recommend,0.9
+1099,Excellent service,0.95
+1100,Will not recommend,0.88
+1101,Will not recommend,0.95
+1102,Quick resolution,0.91
+1103,Delay in shipment,0.25
+1104,Loved the quality,0.9
+1105,Loved the quality,0.3
+1106,Unresponsive helpline,0.91
+1107,Packaging was damaged,0.1
+1108,Loved the quality,0.35
+1109,Will not recommend,0.92
+1110,Delay in shipment,0.92
+1111,Quick resolution,0.95
+1112,Delay in shipment,0.95
+1113,Loved the quality,0.9
+1114,Delay in shipment,0.2
+1115,Will not recommend,0.1
+1116,Excellent service,0.95
+1117,Excellent service,0.92
+1118,Loved the quality,0.9
+1119,Excellent service,0.88
+1120,Excellent service,0.25
+1121,Great support,0.1
+1122,Quick resolution,0.35
+1123,Excellent service,0.92
+1124,Quick resolution,0.1
+1125,Excellent service,0.92
+1126,Will not recommend,0.95
+1127,Delay in shipment,0.35
+1128,Packaging was damaged,0.35
+1129,Will not recommend,0.9
+1130,Excellent service,0.3
+1131,Unresponsive helpline,0.3
+1132,Amazing product,0.35
+1133,Unresponsive helpline,0.25
+1134,Amazing product,0.91
+1135,Packaging was damaged,0.91
+1136,Great support,0.92
+1137,Excellent service,0.25
+1138,Quick resolution,0.25
+1139,Amazing product,0.1
+1140,Loved the quality,0.3
+1141,Delay in shipment,0.3
+1142,Amazing product,0.9
+1143,Delay in shipment,0.92
+1144,Worst delivery experience,0.25
+1145,Unresponsive helpline,0.25
+1146,Excellent service,0.91
+1147,Unresponsive helpline,0.95
+1148,Worst delivery experience,0.3
+1149,Amazing product,0.35
+1150,Will not recommend,0.92
+1151,Worst delivery experience,0.3
+1152,Quick resolution,0.9
+1153,Loved the quality,0.2
+1154,Quick resolution,0.91
+1155,Will not recommend,0.1
+1156,Unresponsive helpline,0.9
+1157,Great support,0.3
+1158,Great support,0.95
+1159,Delay in shipment,0.95
+1160,Packaging was damaged,0.1
+1161,Delay in shipment,0.91
+1162,Quick resolution,0.3
+1163,Excellent service,0.1
+1164,Loved the quality,0.3
+1165,Excellent service,0.35
+1166,Will not recommend,0.2
+1167,Loved the quality,0.35
+1168,Amazing product,0.88
+1169,Packaging was damaged,0.95
+1170,Will not recommend,0.25
+1171,Loved the quality,0.35
+1172,Will not recommend,0.91
+1173,Amazing product,0.3
+1174,Delay in shipment,0.2
+1175,Loved the quality,0.91
+1176,Packaging was damaged,0.25
+1177,Unresponsive helpline,0.2
+1178,Excellent service,0.25
+1179,Quick resolution,0.25
+1180,Quick resolution,0.92
+1181,Worst delivery experience,0.88
+1182,Excellent service,0.88
+1183,Great support,0.3
+1184,Great support,0.35
+1185,Unresponsive helpline,0.1
+1186,Loved the quality,0.35
+1187,Great support,0.35
+1188,Great support,0.91
+1189,Will not recommend,0.2
+1190,Great support,0.1
+1191,Packaging was damaged,0.25
+1192,Loved the quality,0.25
+1193,Worst delivery experience,0.95
+1194,Quick resolution,0.2
+1195,Great support,0.3
+1196,Amazing product,0.92
+1197,Unresponsive helpline,0.92
+1198,Unresponsive helpline,0.35
+1199,Quick resolution,0.88
+1200,Excellent service,0.95
+1201,Worst delivery experience,0.88
+1202,Great support,0.35
+1203,Quick resolution,0.92
+1204,Loved the quality,0.35
+1205,Will not recommend,0.25
+1206,Quick resolution,0.35
+1207,Worst delivery experience,0.92
+1208,Will not recommend,0.35
+1209,Excellent service,0.91
+1210,Will not recommend,0.95
+1211,Great support,0.9
+1212,Delay in shipment,0.9
+1213,Quick resolution,0.91
+1214,Will not recommend,0.9
+1215,Quick resolution,0.35
+1216,Amazing product,0.91
+1217,Delay in shipment,0.1
+1218,Great support,0.92
+1219,Quick resolution,0.1
+1220,Amazing product,0.91
+1221,Amazing product,0.91
+1222,Worst delivery experience,0.35
+1223,Delay in shipment,0.25
+1224,Loved the quality,0.91
+1225,Delay in shipment,0.91
+1226,Worst delivery experience,0.25
+1227,Unresponsive helpline,0.3
+1228,Delay in shipment,0.25
+1229,Great support,0.2
+1230,Delay in shipment,0.9
+1231,Worst delivery experience,0.91
+1232,Excellent service,0.1
+1233,Unresponsive helpline,0.3
+1234,Delay in shipment,0.2
+1235,Packaging was damaged,0.9
+1236,Quick resolution,0.88
+1237,Excellent service,0.91
+1238,Great support,0.88
+1239,Will not recommend,0.25
+1240,Unresponsive helpline,0.9
+1241,Excellent service,0.88
+1242,Amazing product,0.95
+1243,Loved the quality,0.35
+1244,Worst delivery experience,0.9
+1245,Delay in shipment,0.2
+1246,Quick resolution,0.3
+1247,Unresponsive helpline,0.91
+1248,Loved the quality,0.35
+1249,Worst delivery experience,0.91
+1250,Worst delivery experience,0.25
+1251,Delay in shipment,0.92
+1252,Unresponsive helpline,0.25
+1253,Delay in shipment,0.2
+1254,Excellent service,0.25
+1255,Quick resolution,0.95
+1256,Great support,0.9
+1257,Great support,0.88
+1258,Amazing product,0.3
+1259,Unresponsive helpline,0.88
+1260,Unresponsive helpline,0.95
+1261,Worst delivery experience,0.88
+1262,Loved the quality,0.9
+1263,Excellent service,0.2
+1264,Will not recommend,0.91
+1265,Packaging was damaged,0.2
+1266,Will not recommend,0.9
+1267,Delay in shipment,0.9
+1268,Quick resolution,0.3
+1269,Worst delivery experience,0.88
+1270,Packaging was damaged,0.88
+1271,Excellent service,0.91
+1272,Unresponsive helpline,0.1
+1273,Delay in shipment,0.25
+1274,Loved the quality,0.35
+1275,Packaging was damaged,0.35
+1276,Worst delivery experience,0.92
+1277,Amazing product,0.2
+1278,Amazing product,0.35
+1279,Packaging was damaged,0.35
+1280,Worst delivery experience,0.92
+1281,Excellent service,0.35
+1282,Worst delivery experience,0.92
+1283,Will not recommend,0.3
+1284,Quick resolution,0.9
+1285,Worst delivery experience,0.95
+1286,Will not recommend,0.3
+1287,Unresponsive helpline,0.91
+1288,Excellent service,0.88
+1289,Unresponsive helpline,0.88
+1290,Unresponsive helpline,0.88
+1291,Excellent service,0.3
+1292,Excellent service,0.88
+1293,Unresponsive helpline,0.2
+1294,Unresponsive helpline,0.25
+1295,Worst delivery experience,0.1
+1296,Packaging was damaged,0.25
+1297,Excellent service,0.91
+1298,Delay in shipment,0.92
+1299,Packaging was damaged,0.1
+1300,Packaging was damaged,0.25
+1301,Unresponsive helpline,0.2
+1302,Great support,0.1
+1303,Packaging was damaged,0.1
+1304,Unresponsive helpline,0.25
+1305,Great support,0.1
+1306,Unresponsive helpline,0.91
+1307,Delay in shipment,0.35
+1308,Excellent service,0.35
+1309,Excellent service,0.3
+1310,Packaging was damaged,0.25
+1311,Amazing product,0.88
+1312,Worst delivery experience,0.91
+1313,Amazing product,0.95
+1314,Unresponsive helpline,0.1
+1315,Great support,0.25
+1316,Quick resolution,0.25
+1317,Great support,0.91
+1318,Quick resolution,0.88
+1319,Will not recommend,0.91
+1320,Great support,0.1
+1321,Unresponsive helpline,0.25
+1322,Unresponsive helpline,0.91
+1323,Great support,0.91
+1324,Unresponsive helpline,0.95
+1325,Unresponsive helpline,0.9
+1326,Worst delivery experience,0.35
+1327,Worst delivery experience,0.88
+1328,Packaging was damaged,0.3
+1329,Worst delivery experience,0.1
+1330,Amazing product,0.2
+1331,Amazing product,0.3
+1332,Amazing product,0.35
+1333,Delay in shipment,0.3
+1334,Excellent service,0.1
+1335,Great support,0.2
+1336,Loved the quality,0.91
+1337,Excellent service,0.95
+1338,Worst delivery experience,0.1
+1339,Quick resolution,0.88
+1340,Quick resolution,0.91
+1341,Will not recommend,0.9
+1342,Worst delivery experience,0.35
+1343,Unresponsive helpline,0.91
+1344,Packaging was damaged,0.91
+1345,Will not recommend,0.3
+1346,Excellent service,0.25
+1347,Will not recommend,0.25
+1348,Worst delivery experience,0.88
+1349,Delay in shipment,0.35
+1350,Amazing product,0.9
+1351,Packaging was damaged,0.3
+1352,Amazing product,0.91
+1353,Excellent service,0.1
+1354,Quick resolution,0.88
+1355,Amazing product,0.25
+1356,Unresponsive helpline,0.35
+1357,Great support,0.95
+1358,Great support,0.91
+1359,Excellent service,0.9
+1360,Will not recommend,0.9
+1361,Quick resolution,0.91
+1362,Excellent service,0.3
+1363,Amazing product,0.25
+1364,Quick resolution,0.3
+1365,Excellent service,0.2
+1366,Quick resolution,0.92
+1367,Packaging was damaged,0.9
+1368,Unresponsive helpline,0.3
+1369,Great support,0.9
+1370,Delay in shipment,0.95
+1371,Quick resolution,0.3
+1372,Will not recommend,0.91
+1373,Excellent service,0.88
+1374,Amazing product,0.35
+1375,Great support,0.1
+1376,Delay in shipment,0.91
+1377,Great support,0.3
+1378,Amazing product,0.35
+1379,Great support,0.9
+1380,Great support,0.9
+1381,Packaging was damaged,0.1
+1382,Worst delivery experience,0.1
+1383,Amazing product,0.25
+1384,Amazing product,0.92
+1385,Packaging was damaged,0.25
+1386,Great support,0.91
+1387,Quick resolution,0.2
+1388,Worst delivery experience,0.88
+1389,Will not recommend,0.2
+1390,Packaging was damaged,0.88
+1391,Delay in shipment,0.9
+1392,Worst delivery experience,0.25
+1393,Unresponsive helpline,0.3
+1394,Worst delivery experience,0.91
+1395,Great support,0.3
+1396,Quick resolution,0.2
+1397,Packaging was damaged,0.3
+1398,Worst delivery experience,0.92
+1399,Loved the quality,0.25
+1400,Packaging was damaged,0.9
+1401,Will not recommend,0.91
+1402,Delay in shipment,0.91
+1403,Worst delivery experience,0.1
+1404,Amazing product,0.9
+1405,Delay in shipment,0.25
+1406,Packaging was damaged,0.35
+1407,Excellent service,0.35
+1408,Amazing product,0.2
+1409,Unresponsive helpline,0.25
+1410,Worst delivery experience,0.88
+1411,Loved the quality,0.2
+1412,Worst delivery experience,0.3
+1413,Quick resolution,0.92
+1414,Unresponsive helpline,0.91
+1415,Worst delivery experience,0.1
+1416,Loved the quality,0.2
+1417,Quick resolution,0.88
+1418,Loved the quality,0.92
+1419,Packaging was damaged,0.2
+1420,Packaging was damaged,0.1
+1421,Loved the quality,0.9
+1422,Unresponsive helpline,0.92
+1423,Unresponsive helpline,0.1
+1424,Loved the quality,0.95
+1425,Packaging was damaged,0.88
+1426,Loved the quality,0.95
+1427,Will not recommend,0.35
+1428,Excellent service,0.35
+1429,Great support,0.95
+1430,Amazing product,0.88
+1431,Packaging was damaged,0.25
+1432,Loved the quality,0.9
+1433,Great support,0.1
+1434,Unresponsive helpline,0.95
+1435,Loved the quality,0.2
+1436,Quick resolution,0.95
+1437,Unresponsive helpline,0.91
+1438,Excellent service,0.3
+1439,Loved the quality,0.88
+1440,Loved the quality,0.92
+1441,Will not recommend,0.91
+1442,Excellent service,0.91
+1443,Excellent service,0.35
+1444,Packaging was damaged,0.92
+1445,Unresponsive helpline,0.1
+1446,Delay in shipment,0.95
+1447,Excellent service,0.3
+1448,Worst delivery experience,0.92
+1449,Excellent service,0.91
+1450,Great support,0.2
+1451,Loved the quality,0.2
+1452,Great support,0.9
+1453,Amazing product,0.9
+1454,Delay in shipment,0.88
+1455,Amazing product,0.95
+1456,Great support,0.2
+1457,Delay in shipment,0.95
+1458,Unresponsive helpline,0.91
+1459,Amazing product,0.1
+1460,Quick resolution,0.91
+1461,Excellent service,0.9
+1462,Great support,0.9
+1463,Amazing product,0.95
+1464,Packaging was damaged,0.92
+1465,Packaging was damaged,0.9
+1466,Quick resolution,0.2
+1467,Worst delivery experience,0.9
+1468,Delay in shipment,0.25
+1469,Unresponsive helpline,0.25
+1470,Excellent service,0.95
+1471,Delay in shipment,0.2
+1472,Excellent service,0.95
+1473,Amazing product,0.25
+1474,Worst delivery experience,0.95
+1475,Loved the quality,0.35
+1476,Great support,0.1
+1477,Unresponsive helpline,0.25
+1478,Quick resolution,0.25
+1479,Worst delivery experience,0.88
+1480,Unresponsive helpline,0.25
+1481,Amazing product,0.25
+1482,Amazing product,0.1
+1483,Will not recommend,0.9
+1484,Quick resolution,0.2
+1485,Will not recommend,0.3
+1486,Loved the quality,0.92
+1487,Unresponsive helpline,0.2
+1488,Packaging was damaged,0.25
+1489,Quick resolution,0.25
+1490,Excellent service,0.3
+1491,Worst delivery experience,0.92
+1492,Will not recommend,0.92
+1493,Unresponsive helpline,0.92
+1494,Packaging was damaged,0.91
+1495,Worst delivery experience,0.91
+1496,Quick resolution,0.3
+1497,Excellent service,0.95
+1498,Great support,0.25
+1499,Excellent service,0.95
+1500,Loved the quality,0.88
+1501,Worst delivery experience,0.3
+1502,Loved the quality,0.95
+1503,Worst delivery experience,0.3
+1504,Worst delivery experience,0.88
+1505,Worst delivery experience,0.25
+1506,Worst delivery experience,0.2
+1507,Packaging was damaged,0.91
+1508,Excellent service,0.92
+1509,Quick resolution,0.25
+1510,Excellent service,0.2
+1511,Amazing product,0.2
+1512,Packaging was damaged,0.3
+1513,Loved the quality,0.3
+1514,Unresponsive helpline,0.9
+1515,Unresponsive helpline,0.92
+1516,Worst delivery experience,0.2
+1517,Delay in shipment,0.95
+1518,Will not recommend,0.3
+1519,Will not recommend,0.35
+1520,Quick resolution,0.35
+1521,Unresponsive helpline,0.2
+1522,Packaging was damaged,0.35
+1523,Loved the quality,0.3
+1524,Quick resolution,0.1
+1525,Amazing product,0.95
+1526,Great support,0.95
+1527,Great support,0.2
+1528,Worst delivery experience,0.3
+1529,Great support,0.25
+1530,Great support,0.9
+1531,Quick resolution,0.92
+1532,Delay in shipment,0.9
+1533,Unresponsive helpline,0.25
+1534,Unresponsive helpline,0.3
+1535,Quick resolution,0.25
+1536,Loved the quality,0.25
+1537,Packaging was damaged,0.91
+1538,Will not recommend,0.2
+1539,Amazing product,0.1
+1540,Great support,0.88
+1541,Loved the quality,0.1
+1542,Will not recommend,0.95
+1543,Loved the quality,0.3
+1544,Delay in shipment,0.3
+1545,Unresponsive helpline,0.3
+1546,Amazing product,0.88
+1547,Unresponsive helpline,0.92
+1548,Great support,0.92
+1549,Unresponsive helpline,0.9
+1550,Packaging was damaged,0.1
+1551,Loved the quality,0.92
+1552,Quick resolution,0.92
+1553,Worst delivery experience,0.25
+1554,Unresponsive helpline,0.2
+1555,Unresponsive helpline,0.25
+1556,Quick resolution,0.3
+1557,Excellent service,0.91
+1558,Delay in shipment,0.25
+1559,Worst delivery experience,0.92
+1560,Excellent service,0.92
+1561,Delay in shipment,0.91
+1562,Excellent service,0.92
+1563,Will not recommend,0.91
+1564,Packaging was damaged,0.35
+1565,Worst delivery experience,0.95
+1566,Amazing product,0.25
+1567,Worst delivery experience,0.95
+1568,Will not recommend,0.2
+1569,Amazing product,0.35
+1570,Quick resolution,0.92
+1571,Amazing product,0.2
+1572,Excellent service,0.35
+1573,Packaging was damaged,0.88
+1574,Quick resolution,0.9
+1575,Quick resolution,0.25
+1576,Packaging was damaged,0.3
+1577,Delay in shipment,0.1
+1578,Delay in shipment,0.91
+1579,Quick resolution,0.88
+1580,Worst delivery experience,0.9
+1581,Loved the quality,0.92
+1582,Delay in shipment,0.91
+1583,Packaging was damaged,0.91
+1584,Great support,0.25
+1585,Packaging was damaged,0.25
+1586,Excellent service,0.91
+1587,Quick resolution,0.92
+1588,Delay in shipment,0.91
+1589,Unresponsive helpline,0.35
+1590,Worst delivery experience,0.35
+1591,Delay in shipment,0.1
+1592,Will not recommend,0.35
+1593,Excellent service,0.88
+1594,Excellent service,0.91
+1595,Amazing product,0.9
+1596,Unresponsive helpline,0.35
+1597,Excellent service,0.1
+1598,Unresponsive helpline,0.92
+1599,Quick resolution,0.3
+1600,Packaging was damaged,0.25
+1601,Packaging was damaged,0.9
+1602,Loved the quality,0.2
+1603,Quick resolution,0.3
+1604,Quick resolution,0.9
+1605,Unresponsive helpline,0.88
+1606,Great support,0.3
+1607,Delay in shipment,0.1
+1608,Quick resolution,0.91
+1609,Delay in shipment,0.92
+1610,Loved the quality,0.9
+1611,Delay in shipment,0.2
+1612,Worst delivery experience,0.35
+1613,Worst delivery experience,0.35
+1614,Great support,0.95
+1615,Packaging was damaged,0.88
+1616,Great support,0.92
+1617,Excellent service,0.88
+1618,Will not recommend,0.3
+1619,Packaging was damaged,0.92
+1620,Quick resolution,0.88
+1621,Great support,0.35
+1622,Amazing product,0.95
+1623,Will not recommend,0.95
+1624,Will not recommend,0.2
+1625,Unresponsive helpline,0.9
+1626,Loved the quality,0.95
+1627,Will not recommend,0.1
+1628,Quick resolution,0.2
+1629,Amazing product,0.2
+1630,Worst delivery experience,0.88
+1631,Great support,0.35
+1632,Quick resolution,0.91
+1633,Great support,0.1
+1634,Amazing product,0.92
+1635,Great support,0.9
+1636,Delay in shipment,0.95
+1637,Amazing product,0.95
+1638,Amazing product,0.2
+1639,Worst delivery experience,0.9
+1640,Delay in shipment,0.1
+1641,Will not recommend,0.1
+1642,Will not recommend,0.92
+1643,Delay in shipment,0.88
+1644,Quick resolution,0.3
+1645,Amazing product,0.1
+1646,Worst delivery experience,0.35
+1647,Packaging was damaged,0.35
+1648,Packaging was damaged,0.2
+1649,Delay in shipment,0.35
+1650,Delay in shipment,0.92
+1651,Packaging was damaged,0.35
+1652,Worst delivery experience,0.3
+1653,Worst delivery experience,0.95
+1654,Amazing product,0.91
+1655,Delay in shipment,0.9
+1656,Delay in shipment,0.95
+1657,Delay in shipment,0.3
+1658,Worst delivery experience,0.88
+1659,Great support,0.3
+1660,Loved the quality,0.3
+1661,Amazing product,0.91
+1662,Amazing product,0.35
+1663,Quick resolution,0.91
+1664,Loved the quality,0.2
+1665,Packaging was damaged,0.88
+1666,Unresponsive helpline,0.88
+1667,Great support,0.25
+1668,Worst delivery experience,0.1
+1669,Worst delivery experience,0.91
+1670,Will not recommend,0.25
+1671,Worst delivery experience,0.2
+1672,Excellent service,0.9
+1673,Unresponsive helpline,0.2
+1674,Great support,0.95
+1675,Worst delivery experience,0.88
+1676,Quick resolution,0.25
+1677,Amazing product,0.92
+1678,Worst delivery experience,0.1
+1679,Great support,0.91
+1680,Excellent service,0.3
+1681,Amazing product,0.95
+1682,Will not recommend,0.3
+1683,Packaging was damaged,0.92
+1684,Excellent service,0.25
+1685,Worst delivery experience,0.92
+1686,Quick resolution,0.1
+1687,Amazing product,0.91
+1688,Amazing product,0.35
+1689,Unresponsive helpline,0.25
+1690,Excellent service,0.9
+1691,Quick resolution,0.9
+1692,Delay in shipment,0.91
+1693,Excellent service,0.35
+1694,Delay in shipment,0.3
+1695,Delay in shipment,0.25
+1696,Quick resolution,0.3
+1697,Quick resolution,0.3
+1698,Excellent service,0.88
+1699,Will not recommend,0.88
+1700,Amazing product,0.25
+1701,Delay in shipment,0.1
+1702,Great support,0.88
+1703,Great support,0.25
+1704,Amazing product,0.25
+1705,Delay in shipment,0.88
+1706,Packaging was damaged,0.95
+1707,Loved the quality,0.3
+1708,Amazing product,0.9
+1709,Great support,0.91
+1710,Will not recommend,0.1
+1711,Excellent service,0.25
+1712,Worst delivery experience,0.91
+1713,Great support,0.92
+1714,Amazing product,0.92
+1715,Will not recommend,0.1
+1716,Packaging was damaged,0.92
+1717,Great support,0.2
+1718,Great support,0.88
+1719,Great support,0.25
+1720,Excellent service,0.92
+1721,Unresponsive helpline,0.25
+1722,Loved the quality,0.35
+1723,Unresponsive helpline,0.3
+1724,Great support,0.88
+1725,Packaging was damaged,0.25
+1726,Great support,0.91
+1727,Delay in shipment,0.92
+1728,Quick resolution,0.91
+1729,Delay in shipment,0.25
+1730,Excellent service,0.95
+1731,Delay in shipment,0.25
+1732,Unresponsive helpline,0.25
+1733,Will not recommend,0.88
+1734,Delay in shipment,0.95
+1735,Will not recommend,0.35
+1736,Excellent service,0.2
+1737,Delay in shipment,0.35
+1738,Amazing product,0.2
+1739,Delay in shipment,0.2
+1740,Delay in shipment,0.88
+1741,Amazing product,0.1
+1742,Great support,0.95
+1743,Unresponsive helpline,0.92
+1744,Excellent service,0.95
+1745,Packaging was damaged,0.91
+1746,Excellent service,0.92
+1747,Unresponsive helpline,0.92
+1748,Excellent service,0.3
+1749,Worst delivery experience,0.9
+1750,Will not recommend,0.25
+1751,Will not recommend,0.88
+1752,Unresponsive helpline,0.91
+1753,Unresponsive helpline,0.35
+1754,Packaging was damaged,0.95
+1755,Loved the quality,0.92
+1756,Amazing product,0.92
+1757,Great support,0.88
+1758,Quick resolution,0.1
+1759,Delay in shipment,0.95
+1760,Worst delivery experience,0.95
+1761,Worst delivery experience,0.35
+1762,Amazing product,0.35
+1763,Delay in shipment,0.91
+1764,Packaging was damaged,0.9
+1765,Amazing product,0.92
+1766,Amazing product,0.92
+1767,Amazing product,0.95
+1768,Unresponsive helpline,0.35
+1769,Excellent service,0.3
+1770,Great support,0.35
+1771,Will not recommend,0.25
+1772,Amazing product,0.25
+1773,Amazing product,0.9
+1774,Unresponsive helpline,0.91
+1775,Loved the quality,0.3
+1776,Excellent service,0.95
+1777,Excellent service,0.91
+1778,Quick resolution,0.92
+1779,Quick resolution,0.25
+1780,Quick resolution,0.88
+1781,Packaging was damaged,0.92
+1782,Quick resolution,0.25
+1783,Packaging was damaged,0.95
+1784,Packaging was damaged,0.3
+1785,Packaging was damaged,0.92
+1786,Packaging was damaged,0.3
+1787,Excellent service,0.35
+1788,Unresponsive helpline,0.91
+1789,Loved the quality,0.95
+1790,Will not recommend,0.1
+1791,Quick resolution,0.2
+1792,Great support,0.95
+1793,Quick resolution,0.88
+1794,Great support,0.2
+1795,Packaging was damaged,0.91
+1796,Loved the quality,0.25
+1797,Packaging was damaged,0.1
+1798,Will not recommend,0.95
+1799,Delay in shipment,0.9
+1800,Amazing product,0.35
+1801,Worst delivery experience,0.9
+1802,Great support,0.91
+1803,Delay in shipment,0.1
+1804,Unresponsive helpline,0.1
+1805,Excellent service,0.2
+1806,Great support,0.35
+1807,Worst delivery experience,0.2
+1808,Unresponsive helpline,0.9
+1809,Will not recommend,0.1
+1810,Excellent service,0.91
+1811,Packaging was damaged,0.91
+1812,Delay in shipment,0.2
+1813,Delay in shipment,0.25
+1814,Excellent service,0.9
+1815,Unresponsive helpline,0.2
+1816,Excellent service,0.1
+1817,Amazing product,0.25
+1818,Will not recommend,0.9
+1819,Quick resolution,0.25
+1820,Worst delivery experience,0.35
+1821,Delay in shipment,0.95
+1822,Worst delivery experience,0.2
+1823,Quick resolution,0.2
+1824,Excellent service,0.88
+1825,Quick resolution,0.35
+1826,Unresponsive helpline,0.2
+1827,Excellent service,0.95
+1828,Quick resolution,0.92
+1829,Worst delivery experience,0.2
+1830,Great support,0.1
+1831,Packaging was damaged,0.1
+1832,Loved the quality,0.35
+1833,Amazing product,0.2
+1834,Worst delivery experience,0.91
+1835,Unresponsive helpline,0.92
+1836,Excellent service,0.88
+1837,Quick resolution,0.3
+1838,Excellent service,0.2
+1839,Amazing product,0.9
+1840,Amazing product,0.92
+1841,Worst delivery experience,0.95
+1842,Amazing product,0.3
+1843,Packaging was damaged,0.3
+1844,Worst delivery experience,0.2
+1845,Packaging was damaged,0.91
+1846,Excellent service,0.35
+1847,Amazing product,0.91
+1848,Will not recommend,0.35
+1849,Worst delivery experience,0.2
+1850,Delay in shipment,0.95
+1851,Excellent service,0.3
+1852,Quick resolution,0.95
+1853,Loved the quality,0.25
+1854,Excellent service,0.95
+1855,Unresponsive helpline,0.92
+1856,Great support,0.91
+1857,Quick resolution,0.95
+1858,Loved the quality,0.3
+1859,Will not recommend,0.25
+1860,Amazing product,0.25
+1861,Worst delivery experience,0.95
+1862,Loved the quality,0.25
+1863,Unresponsive helpline,0.9
+1864,Great support,0.88
+1865,Great support,0.1
+1866,Amazing product,0.95
+1867,Quick resolution,0.92
+1868,Loved the quality,0.3
+1869,Loved the quality,0.3
+1870,Worst delivery experience,0.92
+1871,Loved the quality,0.9
+1872,Delay in shipment,0.88
+1873,Unresponsive helpline,0.2
+1874,Will not recommend,0.95
+1875,Worst delivery experience,0.35
+1876,Packaging was damaged,0.95
+1877,Amazing product,0.88
+1878,Unresponsive helpline,0.25
+1879,Packaging was damaged,0.2
+1880,Worst delivery experience,0.3
+1881,Quick resolution,0.88
+1882,Will not recommend,0.35
+1883,Will not recommend,0.2
+1884,Great support,0.3
+1885,Loved the quality,0.9
+1886,Unresponsive helpline,0.91
+1887,Loved the quality,0.35
+1888,Will not recommend,0.2
+1889,Unresponsive helpline,0.2
+1890,Loved the quality,0.9
+1891,Unresponsive helpline,0.92
+1892,Packaging was damaged,0.35
+1893,Quick resolution,0.92
+1894,Excellent service,0.95
+1895,Loved the quality,0.95
+1896,Great support,0.88
+1897,Loved the quality,0.1
+1898,Delay in shipment,0.88
+1899,Will not recommend,0.1
+1900,Great support,0.35
+1901,Delay in shipment,0.91
+1902,Great support,0.2
+1903,Will not recommend,0.95
+1904,Delay in shipment,0.35
+1905,Unresponsive helpline,0.35
+1906,Great support,0.91
+1907,Unresponsive helpline,0.1
+1908,Packaging was damaged,0.95
+1909,Unresponsive helpline,0.95
+1910,Quick resolution,0.1
+1911,Loved the quality,0.35
+1912,Excellent service,0.92
+1913,Unresponsive helpline,0.35
+1914,Loved the quality,0.35
+1915,Excellent service,0.3
+1916,Worst delivery experience,0.1
+1917,Loved the quality,0.25
+1918,Great support,0.92
+1919,Packaging was damaged,0.35
+1920,Excellent service,0.2
+1921,Loved the quality,0.95
+1922,Will not recommend,0.25
+1923,Loved the quality,0.35
+1924,Loved the quality,0.91
+1925,Quick resolution,0.92
+1926,Will not recommend,0.25
+1927,Delay in shipment,0.88
+1928,Loved the quality,0.1
+1929,Packaging was damaged,0.95
+1930,Will not recommend,0.88
+1931,Packaging was damaged,0.3
+1932,Worst delivery experience,0.35
+1933,Quick resolution,0.91
+1934,Worst delivery experience,0.91
+1935,Loved the quality,0.91
+1936,Loved the quality,0.92
+1937,Excellent service,0.3
+1938,Loved the quality,0.35
+1939,Packaging was damaged,0.1
+1940,Unresponsive helpline,0.92
+1941,Great support,0.1
+1942,Amazing product,0.92
+1943,Delay in shipment,0.25
+1944,Worst delivery experience,0.1
+1945,Packaging was damaged,0.92
+1946,Unresponsive helpline,0.95
+1947,Packaging was damaged,0.92
+1948,Great support,0.92
+1949,Packaging was damaged,0.92
+1950,Amazing product,0.9
+1951,Packaging was damaged,0.91
+1952,Amazing product,0.92
+1953,Loved the quality,0.2
+1954,Will not recommend,0.92
+1955,Loved the quality,0.91
+1956,Worst delivery experience,0.25
+1957,Loved the quality,0.35
+1958,Quick resolution,0.91
+1959,Worst delivery experience,0.88
+1960,Excellent service,0.2
+1961,Loved the quality,0.95
+1962,Quick resolution,0.9
+1963,Great support,0.3
+1964,Unresponsive helpline,0.91
+1965,Loved the quality,0.92
+1966,Worst delivery experience,0.2
+1967,Worst delivery experience,0.1
+1968,Excellent service,0.92
+1969,Quick resolution,0.2
+1970,Worst delivery experience,0.91
+1971,Worst delivery experience,0.35
+1972,Packaging was damaged,0.92
+1973,Loved the quality,0.2
+1974,Loved the quality,0.88
+1975,Delay in shipment,0.88
+1976,Delay in shipment,0.2
+1977,Delay in shipment,0.1
+1978,Excellent service,0.35
+1979,Will not recommend,0.1
+1980,Quick resolution,0.1
+1981,Will not recommend,0.9
+1982,Amazing product,0.25
+1983,Packaging was damaged,0.92
+1984,Packaging was damaged,0.25
+1985,Loved the quality,0.88
+1986,Quick resolution,0.25
+1987,Great support,0.95
+1988,Great support,0.35
+1989,Excellent service,0.9
+1990,Loved the quality,0.92
+1991,Unresponsive helpline,0.2
+1992,Excellent service,0.3
+1993,Loved the quality,0.35
+1994,Loved the quality,0.95
+1995,Amazing product,0.2
+1996,Will not recommend,0.2
+1997,Quick resolution,0.91
+1998,Delay in shipment,0.92
+1999,Delay in shipment,0.92
+2000,Delay in shipment,0.35
+2001,Excellent service,0.1
+2002,Worst delivery experience,0.9
+2003,Excellent service,0.91
+2004,Unresponsive helpline,0.9
+2005,Loved the quality,0.3
+2006,Unresponsive helpline,0.91
+2007,Worst delivery experience,0.1
+2008,Will not recommend,0.25
+2009,Unresponsive helpline,0.35
+2010,Quick resolution,0.25
+2011,Great support,0.95
+2012,Unresponsive helpline,0.3
+2013,Quick resolution,0.1
+2014,Loved the quality,0.3
+2015,Worst delivery experience,0.2
+2016,Quick resolution,0.2
+2017,Delay in shipment,0.1
+2018,Unresponsive helpline,0.91
+2019,Will not recommend,0.35
+2020,Will not recommend,0.88
+2021,Unresponsive helpline,0.3
+2022,Unresponsive helpline,0.9
+2023,Delay in shipment,0.9
+2024,Great support,0.92
+2025,Unresponsive helpline,0.35
+2026,Excellent service,0.2
+2027,Packaging was damaged,0.88
+2028,Unresponsive helpline,0.88
+2029,Amazing product,0.95
+2030,Amazing product,0.88
+2031,Will not recommend,0.3
+2032,Packaging was damaged,0.3
+2033,Packaging was damaged,0.9
+2034,Delay in shipment,0.91
+2035,Excellent service,0.9
+2036,Unresponsive helpline,0.3
+2037,Unresponsive helpline,0.9
+2038,Worst delivery experience,0.25
+2039,Excellent service,0.25
+2040,Excellent service,0.1
+2041,Worst delivery experience,0.25
+2042,Packaging was damaged,0.92
+2043,Unresponsive helpline,0.88
+2044,Excellent service,0.9
+2045,Excellent service,0.25
+2046,Amazing product,0.1
+2047,Amazing product,0.2
+2048,Amazing product,0.25
+2049,Packaging was damaged,0.35
+2050,Unresponsive helpline,0.2
+2051,Worst delivery experience,0.35
+2052,Packaging was damaged,0.1
+2053,Delay in shipment,0.2
+2054,Excellent service,0.9
+2055,Delay in shipment,0.92
+2056,Will not recommend,0.95
+2057,Loved the quality,0.91
+2058,Will not recommend,0.1
+2059,Quick resolution,0.9
+2060,Packaging was damaged,0.95
+2061,Packaging was damaged,0.35
+2062,Amazing product,0.95
+2063,Excellent service,0.9
+2064,Delay in shipment,0.88
+2065,Quick resolution,0.3
+2066,Unresponsive helpline,0.91
+2067,Unresponsive helpline,0.88
+2068,Delay in shipment,0.92
+2069,Amazing product,0.91
+2070,Amazing product,0.9
+2071,Great support,0.25
+2072,Loved the quality,0.25
+2073,Great support,0.3
+2074,Excellent service,0.95
+2075,Amazing product,0.3
+2076,Packaging was damaged,0.91
+2077,Quick resolution,0.1
+2078,Delay in shipment,0.95
+2079,Worst delivery experience,0.9
+2080,Quick resolution,0.25
+2081,Worst delivery experience,0.9
+2082,Delay in shipment,0.2
+2083,Unresponsive helpline,0.95
+2084,Will not recommend,0.91
+2085,Delay in shipment,0.1
+2086,Will not recommend,0.9
+2087,Loved the quality,0.88
+2088,Packaging was damaged,0.1
+2089,Excellent service,0.9
+2090,Amazing product,0.25
+2091,Packaging was damaged,0.91
+2092,Loved the quality,0.25
+2093,Will not recommend,0.92
+2094,Quick resolution,0.1
+2095,Loved the quality,0.2
+2096,Excellent service,0.35
+2097,Packaging was damaged,0.25
+2098,Delay in shipment,0.2
+2099,Loved the quality,0.35
+2100,Packaging was damaged,0.88
+2101,Excellent service,0.91
+2102,Delay in shipment,0.91
+2103,Loved the quality,0.2
+2104,Packaging was damaged,0.95
+2105,Will not recommend,0.88
+2106,Quick resolution,0.35
+2107,Excellent service,0.1
+2108,Amazing product,0.1
+2109,Quick resolution,0.1
+2110,Packaging was damaged,0.3
+2111,Excellent service,0.91
+2112,Loved the quality,0.95
+2113,Quick resolution,0.88
+2114,Great support,0.92
+2115,Packaging was damaged,0.92
+2116,Loved the quality,0.35
+2117,Delay in shipment,0.2
+2118,Will not recommend,0.9
+2119,Loved the quality,0.91
+2120,Will not recommend,0.3
+2121,Worst delivery experience,0.35
+2122,Excellent service,0.9
+2123,Packaging was damaged,0.9
+2124,Excellent service,0.91
+2125,Worst delivery experience,0.91
+2126,Great support,0.9
+2127,Packaging was damaged,0.9
+2128,Will not recommend,0.35
+2129,Loved the quality,0.95
+2130,Packaging was damaged,0.92
+2131,Unresponsive helpline,0.91
+2132,Worst delivery experience,0.91
+2133,Great support,0.25
+2134,Unresponsive helpline,0.35
+2135,Packaging was damaged,0.91
+2136,Excellent service,0.9
+2137,Great support,0.91
+2138,Quick resolution,0.25
+2139,Packaging was damaged,0.95
+2140,Excellent service,0.91
+2141,Will not recommend,0.25
+2142,Loved the quality,0.25
+2143,Delay in shipment,0.35
+2144,Will not recommend,0.91
+2145,Will not recommend,0.25
+2146,Great support,0.2
+2147,Unresponsive helpline,0.35
+2148,Excellent service,0.25
+2149,Amazing product,0.35
+2150,Excellent service,0.91
+2151,Delay in shipment,0.92
+2152,Amazing product,0.25
+2153,Loved the quality,0.1
+2154,Delay in shipment,0.2
+2155,Great support,0.92
+2156,Great support,0.95
+2157,Great support,0.92
+2158,Quick resolution,0.88
+2159,Worst delivery experience,0.95
+2160,Loved the quality,0.1
+2161,Great support,0.9
+2162,Delay in shipment,0.35
+2163,Amazing product,0.95
+2164,Unresponsive helpline,0.9
+2165,Great support,0.25
+2166,Worst delivery experience,0.91
+2167,Will not recommend,0.88
+2168,Great support,0.3
+2169,Will not recommend,0.88
+2170,Delay in shipment,0.88
+2171,Quick resolution,0.88
+2172,Excellent service,0.25
+2173,Loved the quality,0.3
+2174,Delay in shipment,0.3
+2175,Will not recommend,0.91
+2176,Quick resolution,0.25
+2177,Worst delivery experience,0.3
+2178,Unresponsive helpline,0.35
+2179,Excellent service,0.91
+2180,Quick resolution,0.35
+2181,Unresponsive helpline,0.92
+2182,Great support,0.88
+2183,Excellent service,0.2
+2184,Packaging was damaged,0.25
+2185,Worst delivery experience,0.88
+2186,Will not recommend,0.35
+2187,Delay in shipment,0.9
+2188,Great support,0.91
+2189,Packaging was damaged,0.2
+2190,Will not recommend,0.3
+2191,Quick resolution,0.2
+2192,Great support,0.35
+2193,Worst delivery experience,0.88
+2194,Quick resolution,0.91
+2195,Great support,0.35
+2196,Excellent service,0.35
+2197,Loved the quality,0.92
+2198,Quick resolution,0.1
+2199,Great support,0.1
+2200,Loved the quality,0.3
+2201,Excellent service,0.1
+2202,Loved the quality,0.3
+2203,Loved the quality,0.3
+2204,Great support,0.92
+2205,Quick resolution,0.95
+2206,Excellent service,0.2
+2207,Will not recommend,0.9
+2208,Will not recommend,0.88
+2209,Loved the quality,0.95
+2210,Packaging was damaged,0.9
+2211,Unresponsive helpline,0.88
+2212,Amazing product,0.35
+2213,Loved the quality,0.2
+2214,Worst delivery experience,0.3
+2215,Great support,0.95
+2216,Delay in shipment,0.92
+2217,Amazing product,0.2
+2218,Loved the quality,0.25
+2219,Will not recommend,0.1
+2220,Unresponsive helpline,0.35
+2221,Great support,0.95
+2222,Loved the quality,0.2
+2223,Will not recommend,0.3
+2224,Great support,0.9
+2225,Will not recommend,0.91
+2226,Quick resolution,0.95
+2227,Delay in shipment,0.88
+2228,Worst delivery experience,0.91
+2229,Amazing product,0.91
+2230,Packaging was damaged,0.35
+2231,Loved the quality,0.88
+2232,Great support,0.25
+2233,Will not recommend,0.9
+2234,Loved the quality,0.92
+2235,Quick resolution,0.3
+2236,Delay in shipment,0.91
+2237,Delay in shipment,0.91
+2238,Delay in shipment,0.3
+2239,Loved the quality,0.2
+2240,Delay in shipment,0.95
+2241,Will not recommend,0.9
+2242,Worst delivery experience,0.2
+2243,Loved the quality,0.92
+2244,Will not recommend,0.35
+2245,Amazing product,0.91
+2246,Great support,0.3
+2247,Excellent service,0.3
+2248,Quick resolution,0.3
+2249,Delay in shipment,0.95
+2250,Packaging was damaged,0.9
+2251,Quick resolution,0.3
+2252,Delay in shipment,0.95
+2253,Great support,0.92
+2254,Delay in shipment,0.1
+2255,Delay in shipment,0.91
+2256,Worst delivery experience,0.95
+2257,Excellent service,0.88
+2258,Delay in shipment,0.2
+2259,Unresponsive helpline,0.1
+2260,Excellent service,0.91
+2261,Will not recommend,0.3
+2262,Delay in shipment,0.9
+2263,Delay in shipment,0.88
+2264,Packaging was damaged,0.35
+2265,Packaging was damaged,0.1
+2266,Unresponsive helpline,0.25
+2267,Amazing product,0.91
+2268,Worst delivery experience,0.88
+2269,Amazing product,0.35
+2270,Unresponsive helpline,0.25
+2271,Great support,0.91
+2272,Packaging was damaged,0.25
+2273,Loved the quality,0.35
+2274,Loved the quality,0.25
+2275,Great support,0.91
+2276,Packaging was damaged,0.35
+2277,Delay in shipment,0.35
+2278,Packaging was damaged,0.2
+2279,Worst delivery experience,0.91
+2280,Great support,0.25
+2281,Excellent service,0.92
+2282,Delay in shipment,0.1
+2283,Great support,0.9
+2284,Quick resolution,0.91
+2285,Great support,0.1
+2286,Amazing product,0.88
+2287,Excellent service,0.91
+2288,Will not recommend,0.88
+2289,Packaging was damaged,0.25
+2290,Great support,0.1
+2291,Will not recommend,0.92
+2292,Loved the quality,0.1
+2293,Delay in shipment,0.1
+2294,Packaging was damaged,0.35
+2295,Loved the quality,0.25
+2296,Excellent service,0.88
+2297,Unresponsive helpline,0.95
+2298,Amazing product,0.1
+2299,Unresponsive helpline,0.3
+2300,Unresponsive helpline,0.25
+2301,Packaging was damaged,0.91
+2302,Great support,0.35
+2303,Packaging was damaged,0.3
+2304,Worst delivery experience,0.2
+2305,Great support,0.91
+2306,Will not recommend,0.95
+2307,Worst delivery experience,0.92
+2308,Quick resolution,0.25
+2309,Excellent service,0.3
+2310,Great support,0.95
+2311,Will not recommend,0.3
+2312,Unresponsive helpline,0.92
+2313,Will not recommend,0.92
+2314,Loved the quality,0.95
+2315,Amazing product,0.2
+2316,Worst delivery experience,0.35
+2317,Quick resolution,0.1
+2318,Amazing product,0.92
+2319,Excellent service,0.91
+2320,Worst delivery experience,0.88
+2321,Will not recommend,0.92
+2322,Great support,0.91
+2323,Excellent service,0.95
+2324,Amazing product,0.9
+2325,Loved the quality,0.2
+2326,Unresponsive helpline,0.88
+2327,Quick resolution,0.91
+2328,Amazing product,0.2
+2329,Unresponsive helpline,0.35
+2330,Will not recommend,0.2
+2331,Excellent service,0.9
+2332,Unresponsive helpline,0.95
+2333,Loved the quality,0.35
+2334,Loved the quality,0.2
+2335,Amazing product,0.9
+2336,Delay in shipment,0.35
+2337,Will not recommend,0.35
+2338,Packaging was damaged,0.3
+2339,Delay in shipment,0.95
+2340,Loved the quality,0.88
+2341,Great support,0.2
+2342,Loved the quality,0.35
+2343,Quick resolution,0.88
+2344,Packaging was damaged,0.2
+2345,Loved the quality,0.35
+2346,Worst delivery experience,0.95
+2347,Loved the quality,0.35
+2348,Will not recommend,0.25
+2349,Loved the quality,0.25
+2350,Quick resolution,0.88
+2351,Unresponsive helpline,0.3
+2352,Worst delivery experience,0.3
+2353,Packaging was damaged,0.92
+2354,Great support,0.25
+2355,Amazing product,0.3
+2356,Delay in shipment,0.91
+2357,Delay in shipment,0.9
+2358,Quick resolution,0.91
+2359,Unresponsive helpline,0.2
+2360,Packaging was damaged,0.35
+2361,Great support,0.92
+2362,Great support,0.92
+2363,Excellent service,0.35
+2364,Worst delivery experience,0.1
+2365,Unresponsive helpline,0.88
+2366,Excellent service,0.3
+2367,Amazing product,0.3
+2368,Unresponsive helpline,0.91
+2369,Delay in shipment,0.3
+2370,Worst delivery experience,0.25
+2371,Amazing product,0.1
+2372,Amazing product,0.95
+2373,Amazing product,0.3
+2374,Will not recommend,0.2
+2375,Excellent service,0.1
+2376,Excellent service,0.92
+2377,Amazing product,0.2
+2378,Delay in shipment,0.88
+2379,Loved the quality,0.1
+2380,Will not recommend,0.88
+2381,Excellent service,0.91
+2382,Will not recommend,0.3
+2383,Will not recommend,0.92
+2384,Unresponsive helpline,0.9
+2385,Amazing product,0.88
+2386,Worst delivery experience,0.92
+2387,Worst delivery experience,0.91
+2388,Worst delivery experience,0.88
+2389,Unresponsive helpline,0.3
+2390,Amazing product,0.88
+2391,Unresponsive helpline,0.95
+2392,Packaging was damaged,0.2
+2393,Amazing product,0.9
+2394,Packaging was damaged,0.92
+2395,Amazing product,0.92
+2396,Unresponsive helpline,0.88
+2397,Loved the quality,0.91
+2398,Quick resolution,0.1
+2399,Packaging was damaged,0.91
+2400,Worst delivery experience,0.35
+2401,Will not recommend,0.88
+2402,Packaging was damaged,0.25
+2403,Quick resolution,0.3
+2404,Great support,0.88
+2405,Amazing product,0.35
+2406,Packaging was damaged,0.25
+2407,Amazing product,0.95
+2408,Quick resolution,0.92
+2409,Packaging was damaged,0.9
+2410,Will not recommend,0.91
+2411,Unresponsive helpline,0.91
+2412,Will not recommend,0.9
+2413,Will not recommend,0.1
+2414,Delay in shipment,0.2
+2415,Worst delivery experience,0.92
+2416,Will not recommend,0.3
+2417,Will not recommend,0.88
+2418,Packaging was damaged,0.25
+2419,Worst delivery experience,0.3
+2420,Packaging was damaged,0.9
+2421,Unresponsive helpline,0.91
+2422,Worst delivery experience,0.25
+2423,Quick resolution,0.88
+2424,Quick resolution,0.25
+2425,Delay in shipment,0.25
+2426,Unresponsive helpline,0.1
+2427,Excellent service,0.25
+2428,Great support,0.95
+2429,Packaging was damaged,0.3
+2430,Packaging was damaged,0.1
+2431,Loved the quality,0.88
+2432,Loved the quality,0.35
+2433,Excellent service,0.9
+2434,Excellent service,0.9
+2435,Worst delivery experience,0.3
+2436,Excellent service,0.1
+2437,Amazing product,0.35
+2438,Great support,0.95
+2439,Great support,0.1
+2440,Amazing product,0.3
+2441,Loved the quality,0.91
+2442,Packaging was damaged,0.88
+2443,Quick resolution,0.35
+2444,Loved the quality,0.92
+2445,Delay in shipment,0.2
+2446,Delay in shipment,0.2
+2447,Delay in shipment,0.35
+2448,Excellent service,0.91
+2449,Delay in shipment,0.91
+2450,Delay in shipment,0.95
+2451,Unresponsive helpline,0.88
+2452,Delay in shipment,0.88
+2453,Packaging was damaged,0.1
+2454,Delay in shipment,0.2
+2455,Loved the quality,0.1
+2456,Great support,0.3
+2457,Delay in shipment,0.25
+2458,Quick resolution,0.35
+2459,Will not recommend,0.88
+2460,Amazing product,0.1
+2461,Delay in shipment,0.35
+2462,Quick resolution,0.91
+2463,Packaging was damaged,0.1
+2464,Worst delivery experience,0.1
+2465,Loved the quality,0.91
+2466,Packaging was damaged,0.35
+2467,Quick resolution,0.35
+2468,Packaging was damaged,0.91
+2469,Unresponsive helpline,0.1
+2470,Amazing product,0.91
+2471,Loved the quality,0.9
+2472,Packaging was damaged,0.88
+2473,Amazing product,0.9
+2474,Great support,0.3
+2475,Will not recommend,0.91
+2476,Great support,0.1
+2477,Will not recommend,0.25
+2478,Packaging was damaged,0.35
+2479,Delay in shipment,0.35
+2480,Unresponsive helpline,0.25
+2481,Unresponsive helpline,0.2
+2482,Packaging was damaged,0.92
+2483,Amazing product,0.88
+2484,Quick resolution,0.9
+2485,Quick resolution,0.25
+2486,Delay in shipment,0.9
+2487,Quick resolution,0.3
+2488,Delay in shipment,0.1
+2489,Delay in shipment,0.1
+2490,Will not recommend,0.35
+2491,Loved the quality,0.35
+2492,Loved the quality,0.2
+2493,Worst delivery experience,0.2
+2494,Will not recommend,0.9
+2495,Quick resolution,0.9
+2496,Great support,0.3
+2497,Loved the quality,0.3
+2498,Packaging was damaged,0.3
+2499,Quick resolution,0.1
+2500,Amazing product,0.1
+2501,Amazing product,0.9
+2502,Quick resolution,0.95
+2503,Quick resolution,0.91
+2504,Great support,0.2
+2505,Loved the quality,0.9
+2506,Will not recommend,0.2
+2507,Great support,0.35
+2508,Quick resolution,0.35
+2509,Packaging was damaged,0.95
+2510,Packaging was damaged,0.3
+2511,Amazing product,0.1
+2512,Delay in shipment,0.92
+2513,Delay in shipment,0.35
+2514,Excellent service,0.92
+2515,Amazing product,0.9
+2516,Loved the quality,0.9
+2517,Will not recommend,0.9
+2518,Unresponsive helpline,0.35
+2519,Great support,0.3
+2520,Excellent service,0.3
+2521,Worst delivery experience,0.9
+2522,Loved the quality,0.3
+2523,Amazing product,0.25
+2524,Delay in shipment,0.9
+2525,Packaging was damaged,0.1
+2526,Will not recommend,0.9
+2527,Worst delivery experience,0.35
+2528,Will not recommend,0.95
+2529,Unresponsive helpline,0.1
+2530,Will not recommend,0.35
+2531,Excellent service,0.91
+2532,Loved the quality,0.9
+2533,Quick resolution,0.2
+2534,Great support,0.9
+2535,Quick resolution,0.9
+2536,Great support,0.2
+2537,Unresponsive helpline,0.3
+2538,Will not recommend,0.25
+2539,Excellent service,0.88
+2540,Great support,0.1
+2541,Delay in shipment,0.91
+2542,Quick resolution,0.25
+2543,Loved the quality,0.88
+2544,Packaging was damaged,0.35
+2545,Unresponsive helpline,0.9
+2546,Will not recommend,0.1
+2547,Quick resolution,0.3
+2548,Amazing product,0.25
+2549,Excellent service,0.2
+2550,Will not recommend,0.35
+2551,Excellent service,0.95
+2552,Delay in shipment,0.88
+2553,Amazing product,0.3
+2554,Packaging was damaged,0.95
+2555,Loved the quality,0.92
+2556,Great support,0.92
+2557,Great support,0.35
+2558,Quick resolution,0.25
+2559,Great support,0.3
+2560,Packaging was damaged,0.88
+2561,Will not recommend,0.3
+2562,Unresponsive helpline,0.2
+2563,Will not recommend,0.25
+2564,Unresponsive helpline,0.92
+2565,Packaging was damaged,0.1
+2566,Will not recommend,0.3
+2567,Will not recommend,0.2
+2568,Unresponsive helpline,0.88
+2569,Loved the quality,0.92
+2570,Loved the quality,0.91
+2571,Will not recommend,0.88
+2572,Worst delivery experience,0.91
+2573,Loved the quality,0.1
+2574,Worst delivery experience,0.1
+2575,Delay in shipment,0.92
+2576,Loved the quality,0.35
+2577,Worst delivery experience,0.25
+2578,Quick resolution,0.1
+2579,Packaging was damaged,0.35
+2580,Excellent service,0.3
+2581,Quick resolution,0.2
+2582,Excellent service,0.35
+2583,Excellent service,0.91
+2584,Will not recommend,0.25
+2585,Loved the quality,0.9
+2586,Unresponsive helpline,0.92
+2587,Quick resolution,0.35
+2588,Will not recommend,0.88
+2589,Great support,0.2
+2590,Excellent service,0.35
+2591,Great support,0.2
+2592,Packaging was damaged,0.25
+2593,Packaging was damaged,0.88
+2594,Unresponsive helpline,0.2
+2595,Delay in shipment,0.3
+2596,Excellent service,0.88
+2597,Worst delivery experience,0.91
+2598,Packaging was damaged,0.9
+2599,Excellent service,0.1
+2600,Packaging was damaged,0.1
+2601,Delay in shipment,0.25
+2602,Packaging was damaged,0.91
+2603,Amazing product,0.25
+2604,Quick resolution,0.3
+2605,Quick resolution,0.3
+2606,Loved the quality,0.88
+2607,Excellent service,0.3
+2608,Great support,0.1
+2609,Packaging was damaged,0.1
+2610,Great support,0.88
+2611,Loved the quality,0.91
+2612,Great support,0.91
+2613,Amazing product,0.91
+2614,Excellent service,0.1
+2615,Quick resolution,0.1
+2616,Worst delivery experience,0.35
+2617,Loved the quality,0.95
+2618,Quick resolution,0.25
+2619,Loved the quality,0.35
+2620,Packaging was damaged,0.88
+2621,Delay in shipment,0.2
+2622,Great support,0.9
+2623,Excellent service,0.35
+2624,Unresponsive helpline,0.9
+2625,Great support,0.92
+2626,Unresponsive helpline,0.3
+2627,Unresponsive helpline,0.92
+2628,Loved the quality,0.25
+2629,Excellent service,0.3
+2630,Delay in shipment,0.91
+2631,Quick resolution,0.9
+2632,Will not recommend,0.88
+2633,Packaging was damaged,0.88
+2634,Packaging was damaged,0.95
+2635,Unresponsive helpline,0.9
+2636,Delay in shipment,0.1
+2637,Packaging was damaged,0.95
+2638,Excellent service,0.25
+2639,Amazing product,0.1
+2640,Will not recommend,0.92
+2641,Delay in shipment,0.3
+2642,Quick resolution,0.9
+2643,Will not recommend,0.88
+2644,Delay in shipment,0.25
+2645,Unresponsive helpline,0.25
+2646,Excellent service,0.95
+2647,Quick resolution,0.88
+2648,Unresponsive helpline,0.92
+2649,Delay in shipment,0.2
+2650,Loved the quality,0.25
+2651,Worst delivery experience,0.2
+2652,Loved the quality,0.35
+2653,Delay in shipment,0.92
+2654,Unresponsive helpline,0.35
+2655,Packaging was damaged,0.1
+2656,Packaging was damaged,0.25
+2657,Excellent service,0.91
+2658,Amazing product,0.9
+2659,Amazing product,0.9
+2660,Great support,0.88
+2661,Worst delivery experience,0.9
+2662,Will not recommend,0.1
+2663,Unresponsive helpline,0.92
+2664,Excellent service,0.1
+2665,Packaging was damaged,0.3
+2666,Unresponsive helpline,0.91
+2667,Quick resolution,0.25
+2668,Amazing product,0.91
+2669,Quick resolution,0.35
+2670,Excellent service,0.2
+2671,Will not recommend,0.25
+2672,Unresponsive helpline,0.95
+2673,Excellent service,0.92
+2674,Quick resolution,0.2
+2675,Packaging was damaged,0.88
+2676,Unresponsive helpline,0.92
+2677,Excellent service,0.1
+2678,Unresponsive helpline,0.9
+2679,Excellent service,0.88
+2680,Amazing product,0.9
+2681,Quick resolution,0.35
+2682,Loved the quality,0.3
+2683,Amazing product,0.1
+2684,Excellent service,0.2
+2685,Unresponsive helpline,0.91
+2686,Loved the quality,0.35
+2687,Delay in shipment,0.92
+2688,Great support,0.92
+2689,Will not recommend,0.25
+2690,Will not recommend,0.92
+2691,Worst delivery experience,0.25
+2692,Worst delivery experience,0.25
+2693,Great support,0.95
+2694,Excellent service,0.3
+2695,Excellent service,0.91
+2696,Worst delivery experience,0.2
+2697,Great support,0.3
+2698,Worst delivery experience,0.3
+2699,Excellent service,0.95
+2700,Excellent service,0.1
+2701,Loved the quality,0.1
+2702,Worst delivery experience,0.88
+2703,Loved the quality,0.95
+2704,Excellent service,0.92
+2705,Delay in shipment,0.25
+2706,Will not recommend,0.3
+2707,Great support,0.92
+2708,Worst delivery experience,0.1
+2709,Delay in shipment,0.9
+2710,Quick resolution,0.92
+2711,Unresponsive helpline,0.9
+2712,Excellent service,0.3
+2713,Will not recommend,0.9
+2714,Quick resolution,0.92
+2715,Delay in shipment,0.2
+2716,Will not recommend,0.91
+2717,Amazing product,0.9
+2718,Quick resolution,0.1
+2719,Unresponsive helpline,0.95
+2720,Loved the quality,0.92
+2721,Delay in shipment,0.3
+2722,Amazing product,0.2
+2723,Delay in shipment,0.25
+2724,Loved the quality,0.91
+2725,Loved the quality,0.35
+2726,Great support,0.25
+2727,Quick resolution,0.2
+2728,Delay in shipment,0.35
+2729,Amazing product,0.95
+2730,Quick resolution,0.1
+2731,Excellent service,0.9
+2732,Worst delivery experience,0.88
+2733,Loved the quality,0.95
+2734,Excellent service,0.35
+2735,Worst delivery experience,0.88
+2736,Loved the quality,0.9
+2737,Packaging was damaged,0.25
+2738,Delay in shipment,0.25
+2739,Worst delivery experience,0.92
+2740,Worst delivery experience,0.2
+2741,Amazing product,0.2
+2742,Great support,0.92
+2743,Delay in shipment,0.3
+2744,Delay in shipment,0.3
+2745,Excellent service,0.92
+2746,Loved the quality,0.95
+2747,Packaging was damaged,0.88
+2748,Loved the quality,0.9
+2749,Excellent service,0.1
+2750,Packaging was damaged,0.1
+2751,Loved the quality,0.25
+2752,Excellent service,0.91
+2753,Delay in shipment,0.25
+2754,Amazing product,0.2
+2755,Worst delivery experience,0.88
+2756,Great support,0.3
+2757,Quick resolution,0.92
+2758,Unresponsive helpline,0.1
+2759,Will not recommend,0.92
+2760,Excellent service,0.91
+2761,Will not recommend,0.2
+2762,Loved the quality,0.2
+2763,Unresponsive helpline,0.9
+2764,Worst delivery experience,0.92
+2765,Loved the quality,0.3
+2766,Worst delivery experience,0.1
+2767,Packaging was damaged,0.1
+2768,Amazing product,0.91
+2769,Excellent service,0.9
+2770,Amazing product,0.95
+2771,Excellent service,0.92
+2772,Loved the quality,0.25
+2773,Quick resolution,0.95
+2774,Amazing product,0.95
+2775,Unresponsive helpline,0.35
+2776,Amazing product,0.88
+2777,Packaging was damaged,0.25
+2778,Loved the quality,0.25
+2779,Great support,0.9
+2780,Unresponsive helpline,0.3
+2781,Excellent service,0.91
+2782,Worst delivery experience,0.92
+2783,Great support,0.91
+2784,Great support,0.92
+2785,Loved the quality,0.92
+2786,Delay in shipment,0.91
+2787,Excellent service,0.35
+2788,Amazing product,0.9
+2789,Amazing product,0.92
+2790,Worst delivery experience,0.95
+2791,Great support,0.91
+2792,Loved the quality,0.1
+2793,Quick resolution,0.1
+2794,Loved the quality,0.88
+2795,Unresponsive helpline,0.95
+2796,Will not recommend,0.3
+2797,Packaging was damaged,0.2
+2798,Will not recommend,0.9
+2799,Great support,0.3
+2800,Excellent service,0.2
+2801,Delay in shipment,0.1
+2802,Packaging was damaged,0.95
+2803,Will not recommend,0.3
+2804,Delay in shipment,0.91
+2805,Unresponsive helpline,0.91
+2806,Worst delivery experience,0.91
+2807,Quick resolution,0.9
+2808,Quick resolution,0.95
+2809,Unresponsive helpline,0.95
+2810,Unresponsive helpline,0.9
+2811,Delay in shipment,0.1
+2812,Delay in shipment,0.25
+2813,Unresponsive helpline,0.3
+2814,Great support,0.25
+2815,Will not recommend,0.88
+2816,Great support,0.25
+2817,Unresponsive helpline,0.2
+2818,Amazing product,0.25
+2819,Great support,0.91
+2820,Amazing product,0.1
+2821,Packaging was damaged,0.35
+2822,Unresponsive helpline,0.9
+2823,Delay in shipment,0.88
+2824,Amazing product,0.91
+2825,Amazing product,0.25
+2826,Will not recommend,0.25
+2827,Great support,0.88
+2828,Excellent service,0.92
+2829,Excellent service,0.2
+2830,Packaging was damaged,0.92
+2831,Worst delivery experience,0.92
+2832,Will not recommend,0.2
+2833,Will not recommend,0.1
+2834,Packaging was damaged,0.95
+2835,Delay in shipment,0.92
+2836,Unresponsive helpline,0.35
+2837,Quick resolution,0.88
+2838,Unresponsive helpline,0.2
+2839,Quick resolution,0.35
+2840,Will not recommend,0.25
+2841,Unresponsive helpline,0.35
+2842,Great support,0.9
+2843,Loved the quality,0.9
+2844,Delay in shipment,0.88
+2845,Amazing product,0.2
+2846,Excellent service,0.9
+2847,Delay in shipment,0.88
+2848,Excellent service,0.91
+2849,Great support,0.95
+2850,Will not recommend,0.92
+2851,Excellent service,0.2
+2852,Will not recommend,0.92
+2853,Quick resolution,0.35
+2854,Worst delivery experience,0.25
+2855,Amazing product,0.88
+2856,Will not recommend,0.92
+2857,Delay in shipment,0.92
+2858,Unresponsive helpline,0.2
+2859,Packaging was damaged,0.35
+2860,Will not recommend,0.9
+2861,Amazing product,0.35
+2862,Quick resolution,0.9
+2863,Loved the quality,0.2
+2864,Delay in shipment,0.25
+2865,Unresponsive helpline,0.3
+2866,Packaging was damaged,0.92
+2867,Excellent service,0.91
+2868,Great support,0.3
+2869,Unresponsive helpline,0.95
+2870,Quick resolution,0.35
+2871,Amazing product,0.92
+2872,Packaging was damaged,0.1
+2873,Worst delivery experience,0.9
+2874,Amazing product,0.92
+2875,Will not recommend,0.25
+2876,Delay in shipment,0.95
+2877,Packaging was damaged,0.3
+2878,Amazing product,0.9
+2879,Amazing product,0.3
+2880,Unresponsive helpline,0.2
+2881,Worst delivery experience,0.2
+2882,Quick resolution,0.2
+2883,Will not recommend,0.9
+2884,Great support,0.91
+2885,Loved the quality,0.92
+2886,Amazing product,0.3
+2887,Amazing product,0.3
+2888,Quick resolution,0.9
+2889,Will not recommend,0.91
+2890,Loved the quality,0.1
+2891,Excellent service,0.95
+2892,Amazing product,0.35
+2893,Loved the quality,0.3
+2894,Will not recommend,0.25
+2895,Delay in shipment,0.88
+2896,Quick resolution,0.9
+2897,Loved the quality,0.92
+2898,Will not recommend,0.3
+2899,Excellent service,0.3
+2900,Packaging was damaged,0.1
+2901,Quick resolution,0.25
+2902,Loved the quality,0.91
+2903,Loved the quality,0.3
+2904,Great support,0.2
+2905,Quick resolution,0.95
+2906,Amazing product,0.1
+2907,Amazing product,0.3
+2908,Worst delivery experience,0.25
+2909,Delay in shipment,0.92
+2910,Loved the quality,0.2
+2911,Packaging was damaged,0.3
+2912,Excellent service,0.3
+2913,Loved the quality,0.1
+2914,Packaging was damaged,0.92
+2915,Packaging was damaged,0.2
+2916,Worst delivery experience,0.88
+2917,Excellent service,0.92
+2918,Loved the quality,0.3
+2919,Great support,0.25
+2920,Worst delivery experience,0.2
+2921,Quick resolution,0.95
+2922,Worst delivery experience,0.35
+2923,Worst delivery experience,0.1
+2924,Delay in shipment,0.1
+2925,Loved the quality,0.25
+2926,Loved the quality,0.88
+2927,Unresponsive helpline,0.91
+2928,Worst delivery experience,0.95
+2929,Excellent service,0.9
+2930,Excellent service,0.91
+2931,Great support,0.92
+2932,Packaging was damaged,0.35
+2933,Packaging was damaged,0.88
+2934,Loved the quality,0.9
+2935,Delay in shipment,0.88
+2936,Excellent service,0.9
+2937,Will not recommend,0.35
+2938,Unresponsive helpline,0.25
+2939,Delay in shipment,0.88
+2940,Will not recommend,0.92
+2941,Packaging was damaged,0.35
+2942,Quick resolution,0.3
+2943,Amazing product,0.2
+2944,Amazing product,0.88
+2945,Will not recommend,0.3
+2946,Delay in shipment,0.35
+2947,Packaging was damaged,0.1
+2948,Amazing product,0.2
+2949,Loved the quality,0.2
+2950,Will not recommend,0.35
+2951,Unresponsive helpline,0.25
+2952,Worst delivery experience,0.95
+2953,Quick resolution,0.1
+2954,Loved the quality,0.88
+2955,Will not recommend,0.35
+2956,Will not recommend,0.92
+2957,Amazing product,0.1
+2958,Excellent service,0.25
+2959,Excellent service,0.95
+2960,Worst delivery experience,0.92
+2961,Amazing product,0.35
+2962,Excellent service,0.3
+2963,Excellent service,0.1
+2964,Great support,0.1
+2965,Unresponsive helpline,0.2
+2966,Unresponsive helpline,0.25
+2967,Worst delivery experience,0.92
+2968,Packaging was damaged,0.1
+2969,Excellent service,0.35
+2970,Excellent service,0.91
+2971,Quick resolution,0.2
+2972,Worst delivery experience,0.92
+2973,Unresponsive helpline,0.95
+2974,Worst delivery experience,0.9
+2975,Excellent service,0.35
+2976,Amazing product,0.25
+2977,Excellent service,0.92
+2978,Excellent service,0.3
+2979,Packaging was damaged,0.92
+2980,Delay in shipment,0.3
+2981,Delay in shipment,0.2
+2982,Excellent service,0.95
+2983,Excellent service,0.25
+2984,Packaging was damaged,0.95
+2985,Amazing product,0.2
+2986,Quick resolution,0.92
+2987,Delay in shipment,0.25
+2988,Quick resolution,0.1
+2989,Worst delivery experience,0.9
+2990,Loved the quality,0.91
+2991,Amazing product,0.35
+2992,Excellent service,0.9
+2993,Worst delivery experience,0.1
+2994,Amazing product,0.88
+2995,Quick resolution,0.88
+2996,Quick resolution,0.88
+2997,Delay in shipment,0.3
+2998,Packaging was damaged,0.35
+2999,Quick resolution,0.9
+3000,Excellent service,0.3
+3001,Worst delivery experience,0.9
+3002,Will not recommend,0.9
+3003,Loved the quality,0.95
+3004,Unresponsive helpline,0.92
+3005,Great support,0.9
+3006,Unresponsive helpline,0.95
+3007,Unresponsive helpline,0.91
+3008,Unresponsive helpline,0.3
+3009,Packaging was damaged,0.91
+3010,Excellent service,0.2
+3011,Worst delivery experience,0.2
+3012,Quick resolution,0.3
+3013,Amazing product,0.3
+3014,Excellent service,0.92
+3015,Loved the quality,0.95
+3016,Packaging was damaged,0.92
+3017,Packaging was damaged,0.1
+3018,Amazing product,0.2
+3019,Will not recommend,0.92
+3020,Unresponsive helpline,0.1
+3021,Packaging was damaged,0.1
+3022,Quick resolution,0.35
+3023,Quick resolution,0.9
+3024,Worst delivery experience,0.3
+3025,Quick resolution,0.92
+3026,Packaging was damaged,0.35
+3027,Quick resolution,0.91
+3028,Quick resolution,0.91
+3029,Loved the quality,0.35
+3030,Excellent service,0.95
+3031,Loved the quality,0.35
+3032,Delay in shipment,0.1
+3033,Unresponsive helpline,0.9
+3034,Excellent service,0.92
+3035,Worst delivery experience,0.92
+3036,Loved the quality,0.1
+3037,Great support,0.3
+3038,Unresponsive helpline,0.9
+3039,Unresponsive helpline,0.95
+3040,Excellent service,0.88
+3041,Loved the quality,0.25
+3042,Will not recommend,0.92
+3043,Delay in shipment,0.25
+3044,Packaging was damaged,0.3
+3045,Great support,0.25
+3046,Loved the quality,0.9
+3047,Worst delivery experience,0.25
+3048,Loved the quality,0.35
+3049,Excellent service,0.91
+3050,Great support,0.92
+3051,Packaging was damaged,0.95
+3052,Delay in shipment,0.25
+3053,Worst delivery experience,0.9
+3054,Worst delivery experience,0.92
+3055,Unresponsive helpline,0.2
+3056,Excellent service,0.88
+3057,Excellent service,0.92
+3058,Amazing product,0.88
+3059,Amazing product,0.88
+3060,Quick resolution,0.92
+3061,Great support,0.92
+3062,Packaging was damaged,0.91
+3063,Excellent service,0.9
+3064,Loved the quality,0.25
+3065,Loved the quality,0.95
+3066,Loved the quality,0.3
+3067,Amazing product,0.2
+3068,Loved the quality,0.9
+3069,Worst delivery experience,0.35
+3070,Packaging was damaged,0.3
+3071,Unresponsive helpline,0.95
+3072,Unresponsive helpline,0.92
+3073,Delay in shipment,0.9
+3074,Excellent service,0.2
+3075,Amazing product,0.3
+3076,Worst delivery experience,0.3
+3077,Worst delivery experience,0.9
+3078,Great support,0.92
+3079,Great support,0.92
+3080,Delay in shipment,0.25
+3081,Packaging was damaged,0.1
+3082,Will not recommend,0.88
+3083,Quick resolution,0.91
+3084,Packaging was damaged,0.88
+3085,Loved the quality,0.2
+3086,Loved the quality,0.9
+3087,Quick resolution,0.35
+3088,Quick resolution,0.95
+3089,Excellent service,0.25
+3090,Unresponsive helpline,0.88
+3091,Amazing product,0.35
+3092,Loved the quality,0.92
+3093,Excellent service,0.1
+3094,Will not recommend,0.92
+3095,Will not recommend,0.25
+3096,Amazing product,0.25
+3097,Delay in shipment,0.9
+3098,Unresponsive helpline,0.91
+3099,Will not recommend,0.9
+3100,Amazing product,0.1
+3101,Unresponsive helpline,0.25
+3102,Delay in shipment,0.88
+3103,Excellent service,0.91
+3104,Excellent service,0.91
+3105,Worst delivery experience,0.95
+3106,Amazing product,0.95
+3107,Great support,0.9
+3108,Excellent service,0.88
+3109,Loved the quality,0.9
+3110,Delay in shipment,0.9
+3111,Loved the quality,0.3
+3112,Delay in shipment,0.25
+3113,Delay in shipment,0.95
+3114,Quick resolution,0.3
+3115,Packaging was damaged,0.3
+3116,Amazing product,0.25
+3117,Great support,0.88
+3118,Quick resolution,0.3
+3119,Worst delivery experience,0.25
+3120,Quick resolution,0.9
+3121,Delay in shipment,0.1
+3122,Loved the quality,0.88
+3123,Packaging was damaged,0.91
+3124,Great support,0.35
+3125,Packaging was damaged,0.3
+3126,Packaging was damaged,0.3
+3127,Great support,0.95
+3128,Amazing product,0.35
+3129,Unresponsive helpline,0.9
+3130,Unresponsive helpline,0.9
+3131,Unresponsive helpline,0.95
+3132,Packaging was damaged,0.88
+3133,Excellent service,0.91
+3134,Worst delivery experience,0.9
+3135,Worst delivery experience,0.88
+3136,Worst delivery experience,0.91
+3137,Quick resolution,0.9
+3138,Excellent service,0.91
+3139,Loved the quality,0.2
+3140,Delay in shipment,0.9
+3141,Quick resolution,0.3
+3142,Quick resolution,0.88
+3143,Quick resolution,0.91
+3144,Unresponsive helpline,0.95
+3145,Will not recommend,0.91
+3146,Excellent service,0.1
+3147,Amazing product,0.92
+3148,Unresponsive helpline,0.3
+3149,Delay in shipment,0.35
+3150,Worst delivery experience,0.1
+3151,Great support,0.92
+3152,Will not recommend,0.92
+3153,Will not recommend,0.92
+3154,Quick resolution,0.25
+3155,Amazing product,0.1
+3156,Delay in shipment,0.25
+3157,Worst delivery experience,0.1
+3158,Delay in shipment,0.3
+3159,Great support,0.91
+3160,Loved the quality,0.25
+3161,Will not recommend,0.35
+3162,Worst delivery experience,0.2
+3163,Great support,0.91
+3164,Quick resolution,0.35
+3165,Excellent service,0.25
+3166,Excellent service,0.35
+3167,Quick resolution,0.92
+3168,Packaging was damaged,0.88
+3169,Amazing product,0.3
+3170,Worst delivery experience,0.1
+3171,Great support,0.9
+3172,Loved the quality,0.88
+3173,Delay in shipment,0.2
+3174,Amazing product,0.1
+3175,Packaging was damaged,0.9
+3176,Worst delivery experience,0.95
+3177,Amazing product,0.95
+3178,Worst delivery experience,0.2
+3179,Packaging was damaged,0.95
+3180,Unresponsive helpline,0.2
+3181,Excellent service,0.95
+3182,Quick resolution,0.9
+3183,Loved the quality,0.91
+3184,Packaging was damaged,0.91
+3185,Will not recommend,0.25
+3186,Great support,0.91
+3187,Unresponsive helpline,0.3
+3188,Unresponsive helpline,0.25
+3189,Packaging was damaged,0.92
+3190,Loved the quality,0.3
+3191,Loved the quality,0.3
+3192,Amazing product,0.2
+3193,Packaging was damaged,0.1
+3194,Worst delivery experience,0.91
+3195,Great support,0.91
+3196,Great support,0.95
+3197,Great support,0.3
+3198,Will not recommend,0.91
+3199,Great support,0.3
+3200,Unresponsive helpline,0.2
+3201,Packaging was damaged,0.2
+3202,Quick resolution,0.1
+3203,Great support,0.91
+3204,Delay in shipment,0.3
+3205,Excellent service,0.95
+3206,Unresponsive helpline,0.95
+3207,Unresponsive helpline,0.95
+3208,Great support,0.25
+3209,Unresponsive helpline,0.95
+3210,Worst delivery experience,0.92
+3211,Excellent service,0.91
+3212,Packaging was damaged,0.3
+3213,Delay in shipment,0.91
+3214,Delay in shipment,0.92
+3215,Amazing product,0.91
+3216,Worst delivery experience,0.2
+3217,Loved the quality,0.25
+3218,Great support,0.88
+3219,Unresponsive helpline,0.88
+3220,Delay in shipment,0.9
+3221,Excellent service,0.1
+3222,Quick resolution,0.2
+3223,Unresponsive helpline,0.1
+3224,Great support,0.95
+3225,Quick resolution,0.95
+3226,Loved the quality,0.88
+3227,Packaging was damaged,0.91
+3228,Quick resolution,0.95
+3229,Worst delivery experience,0.1
+3230,Will not recommend,0.3
+3231,Worst delivery experience,0.2
+3232,Great support,0.25
+3233,Will not recommend,0.91
+3234,Delay in shipment,0.9
+3235,Packaging was damaged,0.9
+3236,Delay in shipment,0.88
+3237,Will not recommend,0.91
+3238,Delay in shipment,0.88
+3239,Amazing product,0.88
+3240,Delay in shipment,0.2
+3241,Unresponsive helpline,0.95
+3242,Packaging was damaged,0.2
+3243,Will not recommend,0.35
+3244,Quick resolution,0.1
+3245,Delay in shipment,0.25
+3246,Delay in shipment,0.25
+3247,Will not recommend,0.35
+3248,Packaging was damaged,0.2
+3249,Excellent service,0.91
+3250,Amazing product,0.1
+3251,Great support,0.3
+3252,Packaging was damaged,0.92
+3253,Delay in shipment,0.95
+3254,Great support,0.91
+3255,Great support,0.1
+3256,Will not recommend,0.95
+3257,Will not recommend,0.88
+3258,Amazing product,0.91
+3259,Worst delivery experience,0.9
+3260,Loved the quality,0.2
+3261,Excellent service,0.1
+3262,Unresponsive helpline,0.25
+3263,Quick resolution,0.3
+3264,Excellent service,0.95
+3265,Delay in shipment,0.25
+3266,Great support,0.35
+3267,Will not recommend,0.35
+3268,Packaging was damaged,0.3
+3269,Delay in shipment,0.35
+3270,Amazing product,0.2
+3271,Delay in shipment,0.35
+3272,Worst delivery experience,0.2
+3273,Will not recommend,0.35
+3274,Will not recommend,0.91
+3275,Unresponsive helpline,0.88
+3276,Unresponsive helpline,0.3
+3277,Excellent service,0.95
+3278,Unresponsive helpline,0.91
+3279,Worst delivery experience,0.95
+3280,Delay in shipment,0.92
+3281,Loved the quality,0.88
+3282,Quick resolution,0.1
+3283,Delay in shipment,0.1
+3284,Loved the quality,0.35
+3285,Loved the quality,0.9
+3286,Excellent service,0.25
+3287,Delay in shipment,0.88
+3288,Will not recommend,0.91
+3289,Excellent service,0.95
+3290,Loved the quality,0.25
+3291,Unresponsive helpline,0.3
+3292,Will not recommend,0.88
+3293,Packaging was damaged,0.88
+3294,Packaging was damaged,0.3
+3295,Amazing product,0.25
+3296,Will not recommend,0.95
+3297,Worst delivery experience,0.92
+3298,Will not recommend,0.3
+3299,Excellent service,0.3
+3300,Amazing product,0.9
+3301,Excellent service,0.95
+3302,Great support,0.92
+3303,Excellent service,0.25
+3304,Great support,0.1
+3305,Quick resolution,0.35
+3306,Packaging was damaged,0.95
+3307,Amazing product,0.92
+3308,Unresponsive helpline,0.35
+3309,Unresponsive helpline,0.91
+3310,Worst delivery experience,0.91
+3311,Delay in shipment,0.92
+3312,Excellent service,0.9
+3313,Amazing product,0.35
+3314,Worst delivery experience,0.25
+3315,Loved the quality,0.92
+3316,Unresponsive helpline,0.25
+3317,Excellent service,0.95
+3318,Great support,0.25
+3319,Delay in shipment,0.2
+3320,Loved the quality,0.88
+3321,Delay in shipment,0.2
+3322,Will not recommend,0.9
+3323,Loved the quality,0.92
+3324,Will not recommend,0.1
+3325,Packaging was damaged,0.88
+3326,Amazing product,0.91
+3327,Loved the quality,0.92
+3328,Unresponsive helpline,0.95
+3329,Packaging was damaged,0.9
+3330,Unresponsive helpline,0.92
+3331,Quick resolution,0.9
+3332,Loved the quality,0.25
+3333,Quick resolution,0.25
+3334,Unresponsive helpline,0.95
+3335,Unresponsive helpline,0.25
+3336,Will not recommend,0.3
+3337,Will not recommend,0.35
+3338,Great support,0.1
+3339,Delay in shipment,0.25
+3340,Unresponsive helpline,0.2
+3341,Loved the quality,0.25
+3342,Packaging was damaged,0.88
+3343,Excellent service,0.3
+3344,Worst delivery experience,0.92
+3345,Unresponsive helpline,0.35
+3346,Loved the quality,0.9
+3347,Great support,0.2
+3348,Unresponsive helpline,0.2
+3349,Quick resolution,0.3
+3350,Amazing product,0.88
+3351,Delay in shipment,0.95
+3352,Quick resolution,0.95
+3353,Great support,0.3
+3354,Loved the quality,0.91
+3355,Great support,0.92
+3356,Worst delivery experience,0.95
+3357,Unresponsive helpline,0.9
+3358,Worst delivery experience,0.35
+3359,Amazing product,0.9
+3360,Loved the quality,0.35
+3361,Amazing product,0.35
+3362,Packaging was damaged,0.92
+3363,Packaging was damaged,0.1
+3364,Will not recommend,0.92
+3365,Amazing product,0.91
+3366,Worst delivery experience,0.9
+3367,Worst delivery experience,0.1
+3368,Worst delivery experience,0.88
+3369,Quick resolution,0.3
+3370,Great support,0.2
+3371,Quick resolution,0.1
+3372,Unresponsive helpline,0.9
+3373,Unresponsive helpline,0.9
+3374,Worst delivery experience,0.9
+3375,Excellent service,0.9
+3376,Amazing product,0.1
+3377,Worst delivery experience,0.35
+3378,Will not recommend,0.35
+3379,Unresponsive helpline,0.91
+3380,Amazing product,0.25
+3381,Packaging was damaged,0.1
+3382,Delay in shipment,0.88
+3383,Amazing product,0.2
+3384,Quick resolution,0.1
+3385,Amazing product,0.2
+3386,Will not recommend,0.95
+3387,Excellent service,0.88
+3388,Quick resolution,0.88
+3389,Worst delivery experience,0.95
+3390,Quick resolution,0.35
+3391,Amazing product,0.88
+3392,Will not recommend,0.95
+3393,Great support,0.35
+3394,Will not recommend,0.1
+3395,Packaging was damaged,0.91
+3396,Great support,0.95
+3397,Delay in shipment,0.2
+3398,Excellent service,0.2
+3399,Unresponsive helpline,0.1
+3400,Loved the quality,0.9
+3401,Packaging was damaged,0.3
+3402,Will not recommend,0.88
+3403,Packaging was damaged,0.9
+3404,Amazing product,0.88
+3405,Worst delivery experience,0.92
+3406,Worst delivery experience,0.92
+3407,Delay in shipment,0.88
+3408,Excellent service,0.88
+3409,Unresponsive helpline,0.88
+3410,Unresponsive helpline,0.91
+3411,Great support,0.95
+3412,Worst delivery experience,0.95
+3413,Quick resolution,0.9
+3414,Worst delivery experience,0.35
+3415,Amazing product,0.2
+3416,Worst delivery experience,0.91
+3417,Loved the quality,0.95
+3418,Delay in shipment,0.92
+3419,Great support,0.88
+3420,Delay in shipment,0.1
+3421,Amazing product,0.9
+3422,Quick resolution,0.2
+3423,Packaging was damaged,0.9
+3424,Worst delivery experience,0.88
+3425,Amazing product,0.95
+3426,Great support,0.25
+3427,Loved the quality,0.9
+3428,Loved the quality,0.92
+3429,Unresponsive helpline,0.1
+3430,Quick resolution,0.92
+3431,Worst delivery experience,0.35
+3432,Excellent service,0.88
+3433,Will not recommend,0.95
+3434,Amazing product,0.35
+3435,Delay in shipment,0.2
+3436,Delay in shipment,0.1
+3437,Amazing product,0.9
+3438,Great support,0.92
+3439,Delay in shipment,0.95
+3440,Will not recommend,0.88
+3441,Great support,0.95
+3442,Loved the quality,0.25
+3443,Unresponsive helpline,0.35
+3444,Delay in shipment,0.95
+3445,Delay in shipment,0.88
+3446,Unresponsive helpline,0.1
+3447,Delay in shipment,0.9
+3448,Loved the quality,0.88
+3449,Unresponsive helpline,0.25
+3450,Excellent service,0.1
+3451,Amazing product,0.9
+3452,Delay in shipment,0.92
+3453,Great support,0.1
+3454,Excellent service,0.2
+3455,Excellent service,0.2
+3456,Delay in shipment,0.95
+3457,Great support,0.9
+3458,Will not recommend,0.3
+3459,Great support,0.9
+3460,Excellent service,0.25
+3461,Great support,0.95
+3462,Amazing product,0.92
+3463,Unresponsive helpline,0.88
+3464,Worst delivery experience,0.91
+3465,Worst delivery experience,0.95
+3466,Great support,0.91
+3467,Quick resolution,0.91
+3468,Great support,0.3
+3469,Delay in shipment,0.1
+3470,Loved the quality,0.92
+3471,Excellent service,0.35
+3472,Unresponsive helpline,0.3
+3473,Worst delivery experience,0.35
+3474,Quick resolution,0.92
+3475,Delay in shipment,0.9
+3476,Quick resolution,0.9
+3477,Quick resolution,0.91
+3478,Great support,0.92
+3479,Excellent service,0.9
+3480,Will not recommend,0.25
+3481,Amazing product,0.25
+3482,Quick resolution,0.9
+3483,Delay in shipment,0.88
+3484,Worst delivery experience,0.91
+3485,Great support,0.9
+3486,Delay in shipment,0.25
+3487,Will not recommend,0.95
+3488,Delay in shipment,0.9
+3489,Delay in shipment,0.3
+3490,Excellent service,0.9
+3491,Amazing product,0.91
+3492,Loved the quality,0.1
+3493,Great support,0.92
+3494,Worst delivery experience,0.9
+3495,Unresponsive helpline,0.9
+3496,Unresponsive helpline,0.2
+3497,Amazing product,0.1
+3498,Packaging was damaged,0.35
+3499,Great support,0.91
+3500,Delay in shipment,0.88
+3501,Unresponsive helpline,0.2
+3502,Excellent service,0.91
+3503,Delay in shipment,0.9
+3504,Amazing product,0.88
+3505,Quick resolution,0.1
+3506,Amazing product,0.88
+3507,Will not recommend,0.3
+3508,Loved the quality,0.3
+3509,Will not recommend,0.2
+3510,Amazing product,0.2
+3511,Unresponsive helpline,0.2
+3512,Will not recommend,0.92
+3513,Will not recommend,0.9
+3514,Loved the quality,0.1
+3515,Packaging was damaged,0.88
+3516,Great support,0.88
+3517,Quick resolution,0.35
+3518,Worst delivery experience,0.25
+3519,Unresponsive helpline,0.3
+3520,Loved the quality,0.91
+3521,Delay in shipment,0.1
+3522,Worst delivery experience,0.1
+3523,Worst delivery experience,0.92
+3524,Unresponsive helpline,0.3
+3525,Worst delivery experience,0.9
+3526,Worst delivery experience,0.91
+3527,Excellent service,0.3
+3528,Amazing product,0.91
+3529,Great support,0.95
+3530,Amazing product,0.92
+3531,Amazing product,0.95
+3532,Excellent service,0.91
+3533,Great support,0.88
+3534,Loved the quality,0.1
+3535,Great support,0.91
+3536,Quick resolution,0.92
+3537,Will not recommend,0.1
+3538,Excellent service,0.91
+3539,Packaging was damaged,0.3
+3540,Quick resolution,0.9
+3541,Excellent service,0.2
+3542,Excellent service,0.3
+3543,Worst delivery experience,0.9
+3544,Quick resolution,0.91
+3545,Delay in shipment,0.25
+3546,Excellent service,0.95
+3547,Excellent service,0.2
+3548,Will not recommend,0.9
+3549,Amazing product,0.35
+3550,Delay in shipment,0.92
+3551,Amazing product,0.92
+3552,Unresponsive helpline,0.35
+3553,Worst delivery experience,0.25
+3554,Great support,0.95
+3555,Amazing product,0.92
+3556,Packaging was damaged,0.35
+3557,Packaging was damaged,0.1
+3558,Great support,0.35
+3559,Great support,0.91
+3560,Amazing product,0.1
+3561,Loved the quality,0.88
+3562,Quick resolution,0.3
+3563,Excellent service,0.88
+3564,Excellent service,0.88
+3565,Great support,0.35
+3566,Unresponsive helpline,0.25
+3567,Packaging was damaged,0.25
+3568,Delay in shipment,0.1
+3569,Excellent service,0.35
+3570,Amazing product,0.2
+3571,Unresponsive helpline,0.92
+3572,Unresponsive helpline,0.95
+3573,Unresponsive helpline,0.1
+3574,Quick resolution,0.1
+3575,Delay in shipment,0.1
+3576,Loved the quality,0.91
+3577,Unresponsive helpline,0.3
+3578,Great support,0.95
+3579,Will not recommend,0.9
+3580,Loved the quality,0.1
+3581,Great support,0.2
+3582,Delay in shipment,0.91
+3583,Will not recommend,0.88
+3584,Unresponsive helpline,0.1
+3585,Packaging was damaged,0.1
+3586,Worst delivery experience,0.35
+3587,Delay in shipment,0.3
+3588,Loved the quality,0.3
+3589,Packaging was damaged,0.88
+3590,Packaging was damaged,0.25
+3591,Amazing product,0.3
+3592,Worst delivery experience,0.88
+3593,Will not recommend,0.9
+3594,Amazing product,0.91
+3595,Loved the quality,0.9
+3596,Will not recommend,0.9
+3597,Unresponsive helpline,0.1
+3598,Loved the quality,0.2
+3599,Excellent service,0.9
+3600,Unresponsive helpline,0.25
+3601,Great support,0.2
+3602,Packaging was damaged,0.95
+3603,Packaging was damaged,0.92
+3604,Worst delivery experience,0.25
+3605,Amazing product,0.35
+3606,Delay in shipment,0.2
+3607,Amazing product,0.91
+3608,Delay in shipment,0.3
+3609,Great support,0.9
+3610,Quick resolution,0.3
+3611,Unresponsive helpline,0.9
+3612,Unresponsive helpline,0.25
+3613,Amazing product,0.95
+3614,Great support,0.95
+3615,Will not recommend,0.91
+3616,Quick resolution,0.88
+3617,Will not recommend,0.91
+3618,Worst delivery experience,0.9
+3619,Amazing product,0.9
+3620,Great support,0.2
+3621,Great support,0.2
+3622,Loved the quality,0.91
+3623,Excellent service,0.2
+3624,Unresponsive helpline,0.3
+3625,Great support,0.3
+3626,Packaging was damaged,0.91
+3627,Quick resolution,0.9
+3628,Unresponsive helpline,0.1
+3629,Unresponsive helpline,0.2
+3630,Amazing product,0.9
+3631,Quick resolution,0.91
+3632,Delay in shipment,0.92
+3633,Delay in shipment,0.92
+3634,Great support,0.88
+3635,Quick resolution,0.95
+3636,Great support,0.1
+3637,Great support,0.92
+3638,Loved the quality,0.91
+3639,Unresponsive helpline,0.35
+3640,Quick resolution,0.25
+3641,Will not recommend,0.1
+3642,Delay in shipment,0.25
+3643,Great support,0.95
+3644,Quick resolution,0.25
+3645,Unresponsive helpline,0.35
+3646,Loved the quality,0.3
+3647,Worst delivery experience,0.9
+3648,Worst delivery experience,0.92
+3649,Worst delivery experience,0.92
+3650,Quick resolution,0.88
+3651,Packaging was damaged,0.91
+3652,Quick resolution,0.95
+3653,Quick resolution,0.91
+3654,Amazing product,0.9
+3655,Unresponsive helpline,0.35
+3656,Unresponsive helpline,0.35
+3657,Quick resolution,0.3
+3658,Amazing product,0.2
+3659,Excellent service,0.92
+3660,Will not recommend,0.9
+3661,Packaging was damaged,0.3
+3662,Excellent service,0.35
+3663,Quick resolution,0.88
+3664,Amazing product,0.2
+3665,Packaging was damaged,0.9
+3666,Delay in shipment,0.88
+3667,Amazing product,0.92
+3668,Worst delivery experience,0.3
+3669,Will not recommend,0.3
+3670,Excellent service,0.91
+3671,Amazing product,0.91
+3672,Unresponsive helpline,0.1
+3673,Great support,0.88
+3674,Will not recommend,0.95
+3675,Amazing product,0.95
+3676,Delay in shipment,0.9
+3677,Quick resolution,0.9
+3678,Quick resolution,0.88
+3679,Will not recommend,0.2
+3680,Great support,0.25
+3681,Unresponsive helpline,0.95
+3682,Amazing product,0.25
+3683,Unresponsive helpline,0.91
+3684,Quick resolution,0.92
+3685,Amazing product,0.3
+3686,Quick resolution,0.35
+3687,Delay in shipment,0.35
+3688,Unresponsive helpline,0.25
+3689,Great support,0.25
+3690,Will not recommend,0.95
+3691,Quick resolution,0.91
+3692,Delay in shipment,0.1
+3693,Delay in shipment,0.95
+3694,Unresponsive helpline,0.9
+3695,Delay in shipment,0.88
+3696,Will not recommend,0.92
+3697,Great support,0.35
+3698,Worst delivery experience,0.25
+3699,Worst delivery experience,0.3
+3700,Delay in shipment,0.3
+3701,Quick resolution,0.25
+3702,Loved the quality,0.9
+3703,Great support,0.35
+3704,Quick resolution,0.3
+3705,Quick resolution,0.35
+3706,Loved the quality,0.3
+3707,Amazing product,0.2
+3708,Worst delivery experience,0.1
+3709,Packaging was damaged,0.9
+3710,Great support,0.25
+3711,Amazing product,0.95
+3712,Loved the quality,0.1
+3713,Packaging was damaged,0.35
+3714,Great support,0.91
+3715,Excellent service,0.95
+3716,Loved the quality,0.3
+3717,Great support,0.88
+3718,Excellent service,0.35
+3719,Amazing product,0.35
+3720,Excellent service,0.91
+3721,Loved the quality,0.25
+3722,Worst delivery experience,0.92
+3723,Loved the quality,0.2
+3724,Unresponsive helpline,0.9
+3725,Will not recommend,0.1
+3726,Amazing product,0.9
+3727,Will not recommend,0.3
+3728,Quick resolution,0.2
+3729,Amazing product,0.25
+3730,Great support,0.25
+3731,Packaging was damaged,0.25
+3732,Quick resolution,0.1
+3733,Great support,0.92
+3734,Quick resolution,0.1
+3735,Unresponsive helpline,0.35
+3736,Loved the quality,0.35
+3737,Amazing product,0.88
+3738,Worst delivery experience,0.95
+3739,Unresponsive helpline,0.1
+3740,Amazing product,0.9
+3741,Worst delivery experience,0.9
+3742,Quick resolution,0.88
+3743,Excellent service,0.35
+3744,Will not recommend,0.91
+3745,Worst delivery experience,0.91
+3746,Loved the quality,0.91
+3747,Quick resolution,0.3
+3748,Loved the quality,0.9
+3749,Packaging was damaged,0.3
+3750,Amazing product,0.9
+3751,Excellent service,0.88
+3752,Worst delivery experience,0.9
+3753,Will not recommend,0.95
+3754,Worst delivery experience,0.25
+3755,Loved the quality,0.35
+3756,Excellent service,0.92
+3757,Worst delivery experience,0.25
+3758,Quick resolution,0.25
+3759,Packaging was damaged,0.9
+3760,Excellent service,0.9
+3761,Amazing product,0.1
+3762,Excellent service,0.88
+3763,Will not recommend,0.9
+3764,Quick resolution,0.91
+3765,Worst delivery experience,0.25
+3766,Great support,0.25
+3767,Worst delivery experience,0.91
+3768,Loved the quality,0.25
+3769,Loved the quality,0.3
+3770,Unresponsive helpline,0.88
+3771,Packaging was damaged,0.35
+3772,Worst delivery experience,0.95
+3773,Amazing product,0.92
+3774,Delay in shipment,0.2
+3775,Delay in shipment,0.91
+3776,Amazing product,0.9
+3777,Excellent service,0.88
+3778,Quick resolution,0.2
+3779,Unresponsive helpline,0.88
+3780,Unresponsive helpline,0.3
+3781,Excellent service,0.35
+3782,Great support,0.91
+3783,Delay in shipment,0.25
+3784,Unresponsive helpline,0.91
+3785,Will not recommend,0.92
+3786,Worst delivery experience,0.92
+3787,Unresponsive helpline,0.3
+3788,Excellent service,0.91
+3789,Unresponsive helpline,0.1
+3790,Quick resolution,0.25
+3791,Loved the quality,0.35
+3792,Loved the quality,0.1
+3793,Great support,0.35
+3794,Unresponsive helpline,0.35
+3795,Worst delivery experience,0.35
+3796,Packaging was damaged,0.88
+3797,Great support,0.35
+3798,Packaging was damaged,0.25
+3799,Unresponsive helpline,0.88
+3800,Delay in shipment,0.2
+3801,Excellent service,0.1
+3802,Will not recommend,0.3
+3803,Packaging was damaged,0.88
+3804,Worst delivery experience,0.2
+3805,Delay in shipment,0.3
+3806,Unresponsive helpline,0.2
+3807,Delay in shipment,0.2
+3808,Excellent service,0.88
+3809,Worst delivery experience,0.2
+3810,Excellent service,0.3
+3811,Loved the quality,0.88
+3812,Great support,0.35
+3813,Great support,0.3
+3814,Packaging was damaged,0.91
+3815,Unresponsive helpline,0.92
+3816,Quick resolution,0.2
+3817,Amazing product,0.88
+3818,Will not recommend,0.1
+3819,Delay in shipment,0.2
+3820,Great support,0.25
+3821,Excellent service,0.88
+3822,Delay in shipment,0.91
+3823,Amazing product,0.35
+3824,Excellent service,0.88
+3825,Worst delivery experience,0.1
+3826,Worst delivery experience,0.91
+3827,Amazing product,0.88
+3828,Unresponsive helpline,0.91
+3829,Quick resolution,0.25
+3830,Will not recommend,0.92
+3831,Will not recommend,0.88
+3832,Quick resolution,0.88
+3833,Excellent service,0.95
+3834,Will not recommend,0.3
+3835,Great support,0.92
+3836,Excellent service,0.35
+3837,Packaging was damaged,0.88
+3838,Loved the quality,0.92
+3839,Packaging was damaged,0.2
+3840,Delay in shipment,0.92
+3841,Quick resolution,0.92
+3842,Delay in shipment,0.88
+3843,Will not recommend,0.9
+3844,Worst delivery experience,0.95
+3845,Loved the quality,0.35
+3846,Great support,0.88
+3847,Unresponsive helpline,0.1
+3848,Excellent service,0.25
+3849,Great support,0.88
+3850,Great support,0.88
+3851,Delay in shipment,0.88
+3852,Worst delivery experience,0.95
+3853,Excellent service,0.91
+3854,Unresponsive helpline,0.91
+3855,Delay in shipment,0.88
+3856,Packaging was damaged,0.91
+3857,Amazing product,0.3
+3858,Unresponsive helpline,0.88
+3859,Great support,0.2
+3860,Excellent service,0.35
+3861,Great support,0.2
+3862,Loved the quality,0.1
+3863,Will not recommend,0.9
+3864,Worst delivery experience,0.95
+3865,Delay in shipment,0.88
+3866,Excellent service,0.2
+3867,Amazing product,0.9
+3868,Amazing product,0.95
+3869,Packaging was damaged,0.9
+3870,Packaging was damaged,0.3
+3871,Delay in shipment,0.88
+3872,Quick resolution,0.35
+3873,Amazing product,0.95
+3874,Unresponsive helpline,0.3
+3875,Packaging was damaged,0.91
+3876,Worst delivery experience,0.9
+3877,Packaging was damaged,0.35
+3878,Loved the quality,0.2
+3879,Delay in shipment,0.92
+3880,Great support,0.91
+3881,Loved the quality,0.2
+3882,Worst delivery experience,0.9
+3883,Amazing product,0.2
+3884,Excellent service,0.2
+3885,Amazing product,0.35
+3886,Amazing product,0.35
+3887,Excellent service,0.92
+3888,Loved the quality,0.2
+3889,Unresponsive helpline,0.95
+3890,Loved the quality,0.9
+3891,Great support,0.9
+3892,Loved the quality,0.91
+3893,Worst delivery experience,0.3
+3894,Loved the quality,0.91
+3895,Will not recommend,0.95
+3896,Quick resolution,0.9
+3897,Worst delivery experience,0.95
+3898,Delay in shipment,0.35
+3899,Excellent service,0.95
+3900,Delay in shipment,0.2
+3901,Excellent service,0.91
+3902,Delay in shipment,0.95
+3903,Will not recommend,0.3
+3904,Packaging was damaged,0.35
+3905,Quick resolution,0.2
+3906,Unresponsive helpline,0.95
+3907,Great support,0.3
+3908,Amazing product,0.9
+3909,Excellent service,0.88
+3910,Great support,0.88
+3911,Excellent service,0.1
+3912,Excellent service,0.88
+3913,Excellent service,0.91
+3914,Excellent service,0.91
+3915,Excellent service,0.3
+3916,Amazing product,0.91
+3917,Delay in shipment,0.88
+3918,Delay in shipment,0.35
+3919,Packaging was damaged,0.91
+3920,Excellent service,0.3
+3921,Worst delivery experience,0.95
+3922,Great support,0.35
+3923,Amazing product,0.95
+3924,Excellent service,0.1
+3925,Excellent service,0.91
+3926,Loved the quality,0.92
+3927,Worst delivery experience,0.2
+3928,Will not recommend,0.25
+3929,Great support,0.1
+3930,Unresponsive helpline,0.35
+3931,Loved the quality,0.9
+3932,Delay in shipment,0.2
+3933,Great support,0.1
+3934,Worst delivery experience,0.3
+3935,Loved the quality,0.95
+3936,Quick resolution,0.95
+3937,Amazing product,0.92
+3938,Packaging was damaged,0.1
+3939,Amazing product,0.91
+3940,Loved the quality,0.92
+3941,Delay in shipment,0.35
+3942,Packaging was damaged,0.1
+3943,Great support,0.91
+3944,Loved the quality,0.9
+3945,Delay in shipment,0.3
+3946,Amazing product,0.2
+3947,Packaging was damaged,0.3
+3948,Quick resolution,0.25
+3949,Quick resolution,0.2
+3950,Will not recommend,0.3
+3951,Will not recommend,0.25
+3952,Great support,0.88
+3953,Great support,0.91
+3954,Delay in shipment,0.2
+3955,Great support,0.3
+3956,Amazing product,0.91
+3957,Quick resolution,0.35
+3958,Delay in shipment,0.91
+3959,Packaging was damaged,0.91
+3960,Excellent service,0.88
+3961,Great support,0.88
+3962,Loved the quality,0.25
+3963,Unresponsive helpline,0.2
+3964,Amazing product,0.1
+3965,Great support,0.88
+3966,Excellent service,0.35
+3967,Amazing product,0.88
+3968,Quick resolution,0.35
+3969,Quick resolution,0.9
+3970,Delay in shipment,0.92
+3971,Quick resolution,0.9
+3972,Great support,0.35
+3973,Packaging was damaged,0.9
+3974,Worst delivery experience,0.2
+3975,Worst delivery experience,0.3
+3976,Will not recommend,0.91
+3977,Amazing product,0.95
+3978,Packaging was damaged,0.25
+3979,Excellent service,0.92
+3980,Great support,0.2
+3981,Worst delivery experience,0.91
+3982,Excellent service,0.2
+3983,Quick resolution,0.9
+3984,Quick resolution,0.95
+3985,Worst delivery experience,0.95
+3986,Worst delivery experience,0.2
+3987,Excellent service,0.2
+3988,Loved the quality,0.35
+3989,Amazing product,0.25
+3990,Amazing product,0.3
+3991,Excellent service,0.9
+3992,Loved the quality,0.2
+3993,Quick resolution,0.95
+3994,Loved the quality,0.25
+3995,Loved the quality,0.88
+3996,Loved the quality,0.2
+3997,Amazing product,0.88
+3998,Loved the quality,0.35
+3999,Excellent service,0.25
+4000,Packaging was damaged,0.35
+4001,Great support,0.3
+4002,Will not recommend,0.25
+4003,Will not recommend,0.95
+4004,Will not recommend,0.1
+4005,Packaging was damaged,0.95
+4006,Packaging was damaged,0.3
+4007,Worst delivery experience,0.95
+4008,Great support,0.92
+4009,Excellent service,0.91
+4010,Worst delivery experience,0.91
+4011,Loved the quality,0.91
+4012,Great support,0.35
+4013,Delay in shipment,0.95
+4014,Delay in shipment,0.1
+4015,Great support,0.92
+4016,Delay in shipment,0.1
+4017,Worst delivery experience,0.2
+4018,Packaging was damaged,0.95
+4019,Great support,0.92
+4020,Delay in shipment,0.92
+4021,Excellent service,0.95
+4022,Delay in shipment,0.88
+4023,Loved the quality,0.9
+4024,Worst delivery experience,0.35
+4025,Quick resolution,0.2
+4026,Amazing product,0.91
+4027,Worst delivery experience,0.2
+4028,Unresponsive helpline,0.2
+4029,Unresponsive helpline,0.95
+4030,Amazing product,0.95
+4031,Packaging was damaged,0.3
+4032,Will not recommend,0.88
+4033,Delay in shipment,0.3
+4034,Excellent service,0.92
+4035,Packaging was damaged,0.35
+4036,Unresponsive helpline,0.92
+4037,Great support,0.92
+4038,Amazing product,0.3
+4039,Packaging was damaged,0.91
+4040,Will not recommend,0.92
+4041,Great support,0.91
+4042,Loved the quality,0.3
+4043,Worst delivery experience,0.91
+4044,Amazing product,0.92
+4045,Unresponsive helpline,0.25
+4046,Excellent service,0.95
+4047,Loved the quality,0.3
+4048,Loved the quality,0.3
+4049,Packaging was damaged,0.2
+4050,Amazing product,0.9
+4051,Worst delivery experience,0.25
+4052,Amazing product,0.25
+4053,Great support,0.95
+4054,Will not recommend,0.2
+4055,Loved the quality,0.3
+4056,Loved the quality,0.35
+4057,Unresponsive helpline,0.9
+4058,Loved the quality,0.88
+4059,Worst delivery experience,0.9
+4060,Excellent service,0.25
+4061,Amazing product,0.35
+4062,Excellent service,0.25
+4063,Unresponsive helpline,0.88
+4064,Packaging was damaged,0.92
+4065,Great support,0.92
+4066,Loved the quality,0.9
+4067,Quick resolution,0.3
+4068,Unresponsive helpline,0.25
+4069,Great support,0.92
+4070,Amazing product,0.91
+4071,Delay in shipment,0.9
+4072,Will not recommend,0.1
+4073,Delay in shipment,0.9
+4074,Loved the quality,0.25
+4075,Excellent service,0.25
+4076,Loved the quality,0.88
+4077,Great support,0.35
+4078,Excellent service,0.88
+4079,Will not recommend,0.88
+4080,Unresponsive helpline,0.35
+4081,Great support,0.91
+4082,Great support,0.92
+4083,Unresponsive helpline,0.92
+4084,Quick resolution,0.35
+4085,Loved the quality,0.1
+4086,Unresponsive helpline,0.3
+4087,Packaging was damaged,0.1
+4088,Great support,0.1
+4089,Quick resolution,0.91
+4090,Worst delivery experience,0.2
+4091,Delay in shipment,0.9
+4092,Excellent service,0.91
+4093,Loved the quality,0.95
+4094,Great support,0.92
+4095,Excellent service,0.9
+4096,Delay in shipment,0.9
+4097,Will not recommend,0.95
+4098,Great support,0.25
+4099,Great support,0.9
+4100,Excellent service,0.3
+4101,Great support,0.92
+4102,Great support,0.92
+4103,Unresponsive helpline,0.2
+4104,Packaging was damaged,0.88
+4105,Amazing product,0.35
+4106,Will not recommend,0.88
+4107,Amazing product,0.1
+4108,Loved the quality,0.1
+4109,Packaging was damaged,0.9
+4110,Great support,0.25
+4111,Loved the quality,0.35
+4112,Will not recommend,0.88
+4113,Worst delivery experience,0.91
+4114,Worst delivery experience,0.25
+4115,Excellent service,0.25
+4116,Worst delivery experience,0.9
+4117,Great support,0.95
+4118,Amazing product,0.95
+4119,Quick resolution,0.1
+4120,Unresponsive helpline,0.2
+4121,Amazing product,0.25
+4122,Amazing product,0.1
+4123,Quick resolution,0.35
+4124,Great support,0.35
+4125,Unresponsive helpline,0.95
+4126,Will not recommend,0.2
+4127,Loved the quality,0.92
+4128,Excellent service,0.9
+4129,Worst delivery experience,0.2
+4130,Delay in shipment,0.91
+4131,Delay in shipment,0.1
+4132,Amazing product,0.88
+4133,Unresponsive helpline,0.95
+4134,Quick resolution,0.95
+4135,Amazing product,0.9
+4136,Delay in shipment,0.1
+4137,Great support,0.35
+4138,Packaging was damaged,0.2
+4139,Worst delivery experience,0.25
+4140,Packaging was damaged,0.3
+4141,Unresponsive helpline,0.25
+4142,Worst delivery experience,0.88
+4143,Worst delivery experience,0.2
+4144,Quick resolution,0.91
+4145,Great support,0.92
+4146,Packaging was damaged,0.35
+4147,Amazing product,0.2
+4148,Unresponsive helpline,0.9
+4149,Delay in shipment,0.1
+4150,Amazing product,0.25
+4151,Excellent service,0.92
+4152,Worst delivery experience,0.1
+4153,Quick resolution,0.95
+4154,Loved the quality,0.91
+4155,Unresponsive helpline,0.95
+4156,Great support,0.91
+4157,Worst delivery experience,0.1
+4158,Unresponsive helpline,0.35
+4159,Will not recommend,0.88
+4160,Unresponsive helpline,0.95
+4161,Loved the quality,0.1
+4162,Amazing product,0.95
+4163,Unresponsive helpline,0.92
+4164,Delay in shipment,0.2
+4165,Excellent service,0.1
+4166,Delay in shipment,0.92
+4167,Amazing product,0.92
+4168,Packaging was damaged,0.35
+4169,Will not recommend,0.91
+4170,Great support,0.35
+4171,Packaging was damaged,0.1
+4172,Loved the quality,0.95
+4173,Will not recommend,0.92
+4174,Quick resolution,0.2
+4175,Quick resolution,0.25
+4176,Great support,0.88
+4177,Loved the quality,0.35
+4178,Will not recommend,0.2
+4179,Great support,0.9
+4180,Delay in shipment,0.91
+4181,Delay in shipment,0.91
+4182,Will not recommend,0.88
+4183,Unresponsive helpline,0.2
+4184,Packaging was damaged,0.88
+4185,Quick resolution,0.95
+4186,Unresponsive helpline,0.91
+4187,Great support,0.91
+4188,Packaging was damaged,0.35
+4189,Unresponsive helpline,0.1
+4190,Worst delivery experience,0.95
+4191,Will not recommend,0.25
+4192,Loved the quality,0.35
+4193,Delay in shipment,0.91
+4194,Worst delivery experience,0.91
+4195,Great support,0.88
+4196,Packaging was damaged,0.3
+4197,Will not recommend,0.95
+4198,Packaging was damaged,0.9
+4199,Packaging was damaged,0.35
+4200,Loved the quality,0.95
+4201,Amazing product,0.3
+4202,Loved the quality,0.25
+4203,Unresponsive helpline,0.25
+4204,Amazing product,0.35
+4205,Worst delivery experience,0.35
+4206,Packaging was damaged,0.9
+4207,Will not recommend,0.88
+4208,Quick resolution,0.25
+4209,Great support,0.2
+4210,Loved the quality,0.92
+4211,Amazing product,0.35
+4212,Amazing product,0.95
+4213,Amazing product,0.92
+4214,Unresponsive helpline,0.9
+4215,Loved the quality,0.9
+4216,Excellent service,0.35
+4217,Packaging was damaged,0.95
+4218,Packaging was damaged,0.92
+4219,Worst delivery experience,0.92
+4220,Quick resolution,0.92
+4221,Quick resolution,0.9
+4222,Great support,0.35
+4223,Unresponsive helpline,0.95
+4224,Excellent service,0.1
+4225,Excellent service,0.95
+4226,Packaging was damaged,0.2
+4227,Packaging was damaged,0.3
+4228,Excellent service,0.1
+4229,Delay in shipment,0.91
+4230,Delay in shipment,0.1
+4231,Delay in shipment,0.25
+4232,Excellent service,0.1
+4233,Quick resolution,0.2
+4234,Amazing product,0.95
+4235,Unresponsive helpline,0.3
+4236,Loved the quality,0.92
+4237,Great support,0.2
+4238,Quick resolution,0.1
+4239,Worst delivery experience,0.35
+4240,Will not recommend,0.25
+4241,Packaging was damaged,0.92
+4242,Excellent service,0.3
+4243,Packaging was damaged,0.88
+4244,Worst delivery experience,0.92
+4245,Packaging was damaged,0.25
+4246,Delay in shipment,0.88
+4247,Excellent service,0.92
+4248,Worst delivery experience,0.25
+4249,Great support,0.95
+4250,Amazing product,0.25
+4251,Delay in shipment,0.9
+4252,Loved the quality,0.95
+4253,Delay in shipment,0.91
+4254,Amazing product,0.35
+4255,Amazing product,0.25
+4256,Worst delivery experience,0.1
+4257,Unresponsive helpline,0.3
+4258,Great support,0.2
+4259,Will not recommend,0.35
+4260,Will not recommend,0.2
+4261,Will not recommend,0.95
+4262,Excellent service,0.88
+4263,Worst delivery experience,0.88
+4264,Great support,0.35
+4265,Loved the quality,0.2
+4266,Loved the quality,0.92
+4267,Worst delivery experience,0.95
+4268,Delay in shipment,0.2
+4269,Will not recommend,0.92
+4270,Will not recommend,0.92
+4271,Packaging was damaged,0.88
+4272,Worst delivery experience,0.92
+4273,Great support,0.35
+4274,Worst delivery experience,0.2
+4275,Delay in shipment,0.92
+4276,Excellent service,0.25
+4277,Packaging was damaged,0.95
+4278,Delay in shipment,0.1
+4279,Great support,0.88
+4280,Delay in shipment,0.25
+4281,Packaging was damaged,0.92
+4282,Worst delivery experience,0.3
+4283,Great support,0.95
+4284,Excellent service,0.91
+4285,Quick resolution,0.2
+4286,Quick resolution,0.92
+4287,Packaging was damaged,0.88
+4288,Packaging was damaged,0.25
+4289,Will not recommend,0.1
+4290,Packaging was damaged,0.3
+4291,Worst delivery experience,0.1
+4292,Excellent service,0.95
+4293,Will not recommend,0.88
+4294,Excellent service,0.1
+4295,Excellent service,0.91
+4296,Excellent service,0.95
+4297,Great support,0.95
+4298,Amazing product,0.88
+4299,Worst delivery experience,0.91
+4300,Great support,0.92
+4301,Amazing product,0.3
+4302,Quick resolution,0.35
+4303,Loved the quality,0.91
+4304,Delay in shipment,0.2
+4305,Will not recommend,0.92
+4306,Loved the quality,0.3
+4307,Packaging was damaged,0.9
+4308,Worst delivery experience,0.92
+4309,Loved the quality,0.88
+4310,Packaging was damaged,0.9
+4311,Loved the quality,0.9
+4312,Packaging was damaged,0.35
+4313,Great support,0.92
+4314,Worst delivery experience,0.9
+4315,Amazing product,0.95
+4316,Amazing product,0.1
+4317,Worst delivery experience,0.2
+4318,Great support,0.9
+4319,Quick resolution,0.3
+4320,Great support,0.92
+4321,Loved the quality,0.1
+4322,Packaging was damaged,0.91
+4323,Packaging was damaged,0.3
+4324,Quick resolution,0.91
+4325,Quick resolution,0.92
+4326,Quick resolution,0.9
+4327,Will not recommend,0.88
+4328,Unresponsive helpline,0.25
+4329,Will not recommend,0.91
+4330,Worst delivery experience,0.91
+4331,Packaging was damaged,0.35
+4332,Worst delivery experience,0.91
+4333,Loved the quality,0.9
+4334,Quick resolution,0.2
+4335,Worst delivery experience,0.92
+4336,Amazing product,0.88
+4337,Excellent service,0.88
+4338,Great support,0.35
+4339,Will not recommend,0.9
+4340,Will not recommend,0.35
+4341,Loved the quality,0.95
+4342,Delay in shipment,0.9
+4343,Packaging was damaged,0.2
+4344,Worst delivery experience,0.3
+4345,Delay in shipment,0.25
+4346,Packaging was damaged,0.9
+4347,Amazing product,0.35
+4348,Will not recommend,0.1
+4349,Amazing product,0.95
+4350,Will not recommend,0.3
+4351,Quick resolution,0.92
+4352,Delay in shipment,0.92
+4353,Delay in shipment,0.95
+4354,Excellent service,0.91
+4355,Loved the quality,0.92
+4356,Worst delivery experience,0.91
+4357,Quick resolution,0.88
+4358,Quick resolution,0.92
+4359,Great support,0.91
+4360,Worst delivery experience,0.92
+4361,Will not recommend,0.1
+4362,Packaging was damaged,0.91
+4363,Unresponsive helpline,0.92
+4364,Delay in shipment,0.95
+4365,Excellent service,0.88
+4366,Unresponsive helpline,0.92
+4367,Worst delivery experience,0.92
+4368,Amazing product,0.35
+4369,Amazing product,0.35
+4370,Amazing product,0.88
+4371,Delay in shipment,0.25
+4372,Will not recommend,0.95
+4373,Quick resolution,0.1
+4374,Quick resolution,0.9
+4375,Loved the quality,0.35
+4376,Delay in shipment,0.95
+4377,Delay in shipment,0.92
+4378,Unresponsive helpline,0.92
+4379,Unresponsive helpline,0.1
+4380,Amazing product,0.91
+4381,Quick resolution,0.2
+4382,Will not recommend,0.88
+4383,Delay in shipment,0.91
+4384,Unresponsive helpline,0.25
+4385,Packaging was damaged,0.95
+4386,Amazing product,0.95
+4387,Packaging was damaged,0.2
+4388,Delay in shipment,0.95
+4389,Amazing product,0.25
+4390,Quick resolution,0.88
+4391,Quick resolution,0.35
+4392,Unresponsive helpline,0.2
+4393,Packaging was damaged,0.91
+4394,Great support,0.95
+4395,Amazing product,0.95
+4396,Amazing product,0.2
+4397,Packaging was damaged,0.88
+4398,Unresponsive helpline,0.1
+4399,Packaging was damaged,0.95
+4400,Amazing product,0.9
+4401,Packaging was damaged,0.1
+4402,Packaging was damaged,0.25
+4403,Unresponsive helpline,0.88
+4404,Unresponsive helpline,0.25
+4405,Loved the quality,0.35
+4406,Amazing product,0.25
+4407,Loved the quality,0.92
+4408,Packaging was damaged,0.91
+4409,Packaging was damaged,0.1
+4410,Great support,0.95
+4411,Worst delivery experience,0.88
+4412,Excellent service,0.35
+4413,Unresponsive helpline,0.25
+4414,Packaging was damaged,0.2
+4415,Loved the quality,0.95
+4416,Delay in shipment,0.95
+4417,Worst delivery experience,0.2
+4418,Packaging was damaged,0.92
+4419,Quick resolution,0.88
+4420,Amazing product,0.91
+4421,Will not recommend,0.3
+4422,Delay in shipment,0.91
+4423,Worst delivery experience,0.9
+4424,Delay in shipment,0.35
+4425,Great support,0.91
+4426,Delay in shipment,0.95
+4427,Unresponsive helpline,0.3
+4428,Unresponsive helpline,0.92
+4429,Packaging was damaged,0.35
+4430,Excellent service,0.25
+4431,Loved the quality,0.2
+4432,Worst delivery experience,0.35
+4433,Worst delivery experience,0.88
+4434,Worst delivery experience,0.35
+4435,Unresponsive helpline,0.3
+4436,Excellent service,0.35
+4437,Unresponsive helpline,0.3
+4438,Will not recommend,0.91
+4439,Worst delivery experience,0.95
+4440,Excellent service,0.91
+4441,Great support,0.3
+4442,Excellent service,0.9
+4443,Packaging was damaged,0.92
+4444,Delay in shipment,0.9
+4445,Quick resolution,0.95
+4446,Unresponsive helpline,0.25
+4447,Excellent service,0.91
+4448,Packaging was damaged,0.35
+4449,Delay in shipment,0.2
+4450,Great support,0.35
+4451,Packaging was damaged,0.35
+4452,Will not recommend,0.35
+4453,Will not recommend,0.1
+4454,Delay in shipment,0.91
+4455,Worst delivery experience,0.3
+4456,Quick resolution,0.2
+4457,Packaging was damaged,0.25
+4458,Worst delivery experience,0.35
+4459,Amazing product,0.1
+4460,Unresponsive helpline,0.95
+4461,Will not recommend,0.35
+4462,Will not recommend,0.2
+4463,Worst delivery experience,0.3
+4464,Excellent service,0.2
+4465,Loved the quality,0.3
+4466,Loved the quality,0.88
+4467,Unresponsive helpline,0.25
+4468,Loved the quality,0.9
+4469,Will not recommend,0.95
+4470,Excellent service,0.1
+4471,Will not recommend,0.95
+4472,Quick resolution,0.1
+4473,Will not recommend,0.88
+4474,Great support,0.95
+4475,Unresponsive helpline,0.9
+4476,Excellent service,0.92
+4477,Unresponsive helpline,0.92
+4478,Quick resolution,0.3
+4479,Quick resolution,0.25
+4480,Packaging was damaged,0.9
+4481,Delay in shipment,0.25
+4482,Delay in shipment,0.35
+4483,Worst delivery experience,0.3
+4484,Great support,0.1
+4485,Quick resolution,0.9
+4486,Quick resolution,0.1
+4487,Worst delivery experience,0.1
+4488,Quick resolution,0.2
+4489,Great support,0.35
+4490,Excellent service,0.95
+4491,Excellent service,0.1
+4492,Delay in shipment,0.25
+4493,Packaging was damaged,0.92
+4494,Worst delivery experience,0.88
+4495,Loved the quality,0.88
+4496,Unresponsive helpline,0.1
+4497,Great support,0.35
+4498,Loved the quality,0.92
+4499,Amazing product,0.2
+4500,Delay in shipment,0.9
+4501,Great support,0.9
+4502,Quick resolution,0.92
+4503,Amazing product,0.2
+4504,Quick resolution,0.95
+4505,Unresponsive helpline,0.3
+4506,Great support,0.1
+4507,Packaging was damaged,0.9
+4508,Loved the quality,0.9
+4509,Excellent service,0.1
+4510,Loved the quality,0.35
+4511,Great support,0.91
+4512,Worst delivery experience,0.1
+4513,Delay in shipment,0.1
+4514,Unresponsive helpline,0.2
+4515,Worst delivery experience,0.92
+4516,Quick resolution,0.2
+4517,Delay in shipment,0.35
+4518,Excellent service,0.95
+4519,Delay in shipment,0.95
+4520,Delay in shipment,0.91
+4521,Delay in shipment,0.1
+4522,Unresponsive helpline,0.92
+4523,Delay in shipment,0.91
+4524,Quick resolution,0.25
+4525,Great support,0.91
+4526,Amazing product,0.91
+4527,Unresponsive helpline,0.25
+4528,Quick resolution,0.9
+4529,Delay in shipment,0.88
+4530,Unresponsive helpline,0.3
+4531,Packaging was damaged,0.25
+4532,Loved the quality,0.88
+4533,Loved the quality,0.91
+4534,Quick resolution,0.25
+4535,Quick resolution,0.9
+4536,Excellent service,0.92
+4537,Excellent service,0.9
+4538,Loved the quality,0.91
+4539,Great support,0.95
+4540,Great support,0.88
+4541,Loved the quality,0.91
+4542,Packaging was damaged,0.9
+4543,Delay in shipment,0.88
+4544,Loved the quality,0.88
+4545,Delay in shipment,0.2
+4546,Amazing product,0.92
+4547,Delay in shipment,0.1
+4548,Great support,0.88
+4549,Will not recommend,0.2
+4550,Will not recommend,0.1
+4551,Loved the quality,0.1
+4552,Excellent service,0.2
+4553,Amazing product,0.35
+4554,Delay in shipment,0.2
+4555,Worst delivery experience,0.1
+4556,Will not recommend,0.95
+4557,Delay in shipment,0.9
+4558,Delay in shipment,0.95
+4559,Unresponsive helpline,0.35
+4560,Great support,0.3
+4561,Amazing product,0.2
+4562,Delay in shipment,0.88
+4563,Quick resolution,0.88
+4564,Packaging was damaged,0.25
+4565,Packaging was damaged,0.88
+4566,Delay in shipment,0.95
+4567,Will not recommend,0.9
+4568,Amazing product,0.95
+4569,Excellent service,0.2
+4570,Excellent service,0.95
+4571,Great support,0.91
+4572,Amazing product,0.88
+4573,Delay in shipment,0.91
+4574,Great support,0.25
+4575,Amazing product,0.1
+4576,Loved the quality,0.2
+4577,Unresponsive helpline,0.95
+4578,Quick resolution,0.92
+4579,Packaging was damaged,0.88
+4580,Unresponsive helpline,0.2
+4581,Delay in shipment,0.3
+4582,Packaging was damaged,0.88
+4583,Worst delivery experience,0.91
+4584,Great support,0.35
+4585,Worst delivery experience,0.88
+4586,Loved the quality,0.25
+4587,Worst delivery experience,0.25
+4588,Excellent service,0.91
+4589,Unresponsive helpline,0.1
+4590,Excellent service,0.2
+4591,Delay in shipment,0.88
+4592,Delay in shipment,0.2
+4593,Great support,0.88
+4594,Packaging was damaged,0.91
+4595,Will not recommend,0.3
+4596,Quick resolution,0.92
+4597,Loved the quality,0.92
+4598,Excellent service,0.2
+4599,Loved the quality,0.9
+4600,Worst delivery experience,0.1
+4601,Excellent service,0.95
+4602,Quick resolution,0.9
+4603,Delay in shipment,0.92
+4604,Will not recommend,0.91
+4605,Great support,0.95
+4606,Unresponsive helpline,0.35
+4607,Excellent service,0.2
+4608,Great support,0.35
+4609,Worst delivery experience,0.1
+4610,Worst delivery experience,0.35
+4611,Quick resolution,0.95
+4612,Will not recommend,0.92
+4613,Amazing product,0.1
+4614,Quick resolution,0.2
+4615,Amazing product,0.95
+4616,Worst delivery experience,0.91
+4617,Quick resolution,0.35
+4618,Loved the quality,0.95
+4619,Amazing product,0.1
+4620,Loved the quality,0.91
+4621,Quick resolution,0.91
+4622,Worst delivery experience,0.88
+4623,Excellent service,0.91
+4624,Amazing product,0.95
+4625,Unresponsive helpline,0.9
+4626,Amazing product,0.25
+4627,Great support,0.9
+4628,Unresponsive helpline,0.25
+4629,Unresponsive helpline,0.9
+4630,Loved the quality,0.3
+4631,Amazing product,0.3
+4632,Amazing product,0.92
+4633,Excellent service,0.1
+4634,Loved the quality,0.1
+4635,Will not recommend,0.3
+4636,Delay in shipment,0.88
+4637,Worst delivery experience,0.3
+4638,Great support,0.95
+4639,Excellent service,0.92
+4640,Packaging was damaged,0.25
+4641,Will not recommend,0.35
+4642,Packaging was damaged,0.3
+4643,Will not recommend,0.3
+4644,Excellent service,0.95
+4645,Loved the quality,0.1
+4646,Will not recommend,0.95
+4647,Quick resolution,0.9
+4648,Excellent service,0.3
+4649,Will not recommend,0.3
+4650,Will not recommend,0.2
+4651,Great support,0.91
+4652,Worst delivery experience,0.25
+4653,Will not recommend,0.9
+4654,Loved the quality,0.2
+4655,Great support,0.95
+4656,Will not recommend,0.1
+4657,Packaging was damaged,0.91
+4658,Excellent service,0.92
+4659,Quick resolution,0.25
+4660,Quick resolution,0.3
+4661,Loved the quality,0.2
+4662,Quick resolution,0.92
+4663,Will not recommend,0.25
+4664,Quick resolution,0.35
+4665,Worst delivery experience,0.25
+4666,Excellent service,0.9
+4667,Delay in shipment,0.92
+4668,Loved the quality,0.2
+4669,Worst delivery experience,0.9
+4670,Amazing product,0.88
+4671,Great support,0.95
+4672,Will not recommend,0.25
+4673,Packaging was damaged,0.92
+4674,Packaging was damaged,0.2
+4675,Packaging was damaged,0.9
+4676,Worst delivery experience,0.3
+4677,Excellent service,0.2
+4678,Packaging was damaged,0.1
+4679,Unresponsive helpline,0.92
+4680,Worst delivery experience,0.88
+4681,Worst delivery experience,0.91
+4682,Amazing product,0.95
+4683,Delay in shipment,0.1
+4684,Excellent service,0.35
+4685,Amazing product,0.35
+4686,Packaging was damaged,0.95
+4687,Packaging was damaged,0.2
+4688,Excellent service,0.25
+4689,Loved the quality,0.35
+4690,Packaging was damaged,0.95
+4691,Loved the quality,0.1
+4692,Will not recommend,0.1
+4693,Great support,0.35
+4694,Great support,0.1
+4695,Will not recommend,0.88
+4696,Quick resolution,0.2
+4697,Delay in shipment,0.3
+4698,Packaging was damaged,0.88
+4699,Great support,0.35
+4700,Will not recommend,0.25
+4701,Worst delivery experience,0.35
+4702,Worst delivery experience,0.2
+4703,Packaging was damaged,0.95
+4704,Packaging was damaged,0.92
+4705,Amazing product,0.1
+4706,Amazing product,0.1
+4707,Will not recommend,0.91
+4708,Amazing product,0.2
+4709,Unresponsive helpline,0.88
+4710,Amazing product,0.91
+4711,Unresponsive helpline,0.3
+4712,Excellent service,0.3
+4713,Amazing product,0.1
+4714,Unresponsive helpline,0.92
+4715,Delay in shipment,0.35
+4716,Will not recommend,0.88
+4717,Unresponsive helpline,0.91
+4718,Excellent service,0.35
+4719,Quick resolution,0.9
+4720,Worst delivery experience,0.2
+4721,Loved the quality,0.35
+4722,Loved the quality,0.91
+4723,Quick resolution,0.9
+4724,Loved the quality,0.3
+4725,Unresponsive helpline,0.9
+4726,Excellent service,0.88
+4727,Delay in shipment,0.3
+4728,Delay in shipment,0.35
+4729,Delay in shipment,0.35
+4730,Amazing product,0.91
+4731,Delay in shipment,0.92
+4732,Amazing product,0.88
+4733,Delay in shipment,0.95
+4734,Unresponsive helpline,0.25
+4735,Delay in shipment,0.2
+4736,Loved the quality,0.3
+4737,Loved the quality,0.1
+4738,Delay in shipment,0.88
+4739,Worst delivery experience,0.35
+4740,Excellent service,0.3
+4741,Unresponsive helpline,0.25
+4742,Loved the quality,0.88
+4743,Excellent service,0.35
+4744,Loved the quality,0.92
+4745,Worst delivery experience,0.92
+4746,Will not recommend,0.88
+4747,Excellent service,0.35
+4748,Delay in shipment,0.3
+4749,Worst delivery experience,0.88
+4750,Loved the quality,0.92
+4751,Loved the quality,0.88
+4752,Delay in shipment,0.88
+4753,Amazing product,0.2
+4754,Great support,0.3
+4755,Packaging was damaged,0.1
+4756,Great support,0.3
+4757,Will not recommend,0.88
+4758,Great support,0.25
+4759,Amazing product,0.95
+4760,Packaging was damaged,0.88
+4761,Unresponsive helpline,0.35
+4762,Unresponsive helpline,0.1
+4763,Loved the quality,0.95
+4764,Quick resolution,0.25
+4765,Amazing product,0.92
+4766,Delay in shipment,0.88
+4767,Amazing product,0.25
+4768,Packaging was damaged,0.88
+4769,Loved the quality,0.1
+4770,Will not recommend,0.95
+4771,Delay in shipment,0.35
+4772,Will not recommend,0.95
+4773,Packaging was damaged,0.3
+4774,Quick resolution,0.3
+4775,Excellent service,0.25
+4776,Amazing product,0.35
+4777,Packaging was damaged,0.88
+4778,Worst delivery experience,0.1
+4779,Delay in shipment,0.88
+4780,Delay in shipment,0.88
+4781,Great support,0.1
+4782,Quick resolution,0.2
+4783,Amazing product,0.35
+4784,Unresponsive helpline,0.25
+4785,Packaging was damaged,0.25
+4786,Excellent service,0.3
+4787,Delay in shipment,0.88
+4788,Packaging was damaged,0.91
+4789,Packaging was damaged,0.25
+4790,Great support,0.2
+4791,Great support,0.25
+4792,Amazing product,0.9
+4793,Packaging was damaged,0.3
+4794,Loved the quality,0.9
+4795,Excellent service,0.25
+4796,Will not recommend,0.3
+4797,Unresponsive helpline,0.95
+4798,Loved the quality,0.91
+4799,Unresponsive helpline,0.91
+4800,Excellent service,0.95
+4801,Loved the quality,0.25
+4802,Quick resolution,0.2
+4803,Quick resolution,0.88
+4804,Delay in shipment,0.95
+4805,Loved the quality,0.35
+4806,Excellent service,0.1
+4807,Packaging was damaged,0.1
+4808,Quick resolution,0.25
+4809,Loved the quality,0.35
+4810,Excellent service,0.91
+4811,Worst delivery experience,0.95
+4812,Worst delivery experience,0.91
+4813,Worst delivery experience,0.9
+4814,Delay in shipment,0.2
+4815,Loved the quality,0.25
+4816,Unresponsive helpline,0.1
+4817,Excellent service,0.92
+4818,Packaging was damaged,0.95
+4819,Excellent service,0.95
+4820,Worst delivery experience,0.2
+4821,Delay in shipment,0.88
+4822,Worst delivery experience,0.2
+4823,Packaging was damaged,0.91
+4824,Worst delivery experience,0.35
+4825,Great support,0.3
+4826,Will not recommend,0.3
+4827,Will not recommend,0.9
+4828,Packaging was damaged,0.91
+4829,Will not recommend,0.2
+4830,Packaging was damaged,0.91
+4831,Quick resolution,0.9
+4832,Packaging was damaged,0.3
+4833,Will not recommend,0.91
+4834,Excellent service,0.9
+4835,Delay in shipment,0.35
+4836,Quick resolution,0.92
+4837,Excellent service,0.35
+4838,Worst delivery experience,0.92
+4839,Great support,0.9
+4840,Delay in shipment,0.2
+4841,Loved the quality,0.1
+4842,Packaging was damaged,0.91
+4843,Loved the quality,0.3
+4844,Unresponsive helpline,0.1
+4845,Will not recommend,0.35
+4846,Quick resolution,0.91
+4847,Will not recommend,0.92
+4848,Worst delivery experience,0.88
+4849,Quick resolution,0.92
+4850,Unresponsive helpline,0.91
+4851,Packaging was damaged,0.2
+4852,Will not recommend,0.9
+4853,Delay in shipment,0.92
+4854,Delay in shipment,0.2
+4855,Worst delivery experience,0.35
+4856,Quick resolution,0.1
+4857,Delay in shipment,0.9
+4858,Excellent service,0.92
+4859,Worst delivery experience,0.92
+4860,Unresponsive helpline,0.1
+4861,Amazing product,0.25
+4862,Great support,0.91
+4863,Will not recommend,0.3
+4864,Great support,0.1
+4865,Excellent service,0.95
+4866,Amazing product,0.92
+4867,Excellent service,0.3
+4868,Will not recommend,0.92
+4869,Amazing product,0.91
+4870,Unresponsive helpline,0.25
+4871,Worst delivery experience,0.25
+4872,Quick resolution,0.25
+4873,Amazing product,0.95
+4874,Unresponsive helpline,0.88
+4875,Will not recommend,0.3
+4876,Packaging was damaged,0.35
+4877,Excellent service,0.3
+4878,Unresponsive helpline,0.92
+4879,Great support,0.92
+4880,Worst delivery experience,0.95
+4881,Will not recommend,0.35
+4882,Will not recommend,0.1
+4883,Amazing product,0.25
+4884,Packaging was damaged,0.92
+4885,Loved the quality,0.1
+4886,Will not recommend,0.35
+4887,Worst delivery experience,0.92
+4888,Unresponsive helpline,0.95
+4889,Excellent service,0.92
+4890,Excellent service,0.2
+4891,Loved the quality,0.3
+4892,Packaging was damaged,0.2
+4893,Amazing product,0.25
+4894,Worst delivery experience,0.88
+4895,Amazing product,0.91
+4896,Delay in shipment,0.3
+4897,Will not recommend,0.92
+4898,Unresponsive helpline,0.91
+4899,Amazing product,0.91
+4900,Great support,0.2
+4901,Quick resolution,0.95
+4902,Excellent service,0.9
+4903,Great support,0.1
+4904,Will not recommend,0.95
+4905,Will not recommend,0.35
+4906,Will not recommend,0.25
+4907,Excellent service,0.3
+4908,Packaging was damaged,0.3
+4909,Will not recommend,0.1
+4910,Great support,0.95
+4911,Quick resolution,0.91
+4912,Delay in shipment,0.1
+4913,Will not recommend,0.25
+4914,Excellent service,0.9
+4915,Packaging was damaged,0.9
+4916,Will not recommend,0.1
+4917,Will not recommend,0.3
+4918,Great support,0.3
+4919,Delay in shipment,0.2
+4920,Amazing product,0.3
+4921,Quick resolution,0.2
+4922,Excellent service,0.88
+4923,Unresponsive helpline,0.92
+4924,Worst delivery experience,0.88
+4925,Excellent service,0.35
+4926,Packaging was damaged,0.2
+4927,Delay in shipment,0.2
+4928,Packaging was damaged,0.95
+4929,Excellent service,0.95
+4930,Will not recommend,0.92
+4931,Unresponsive helpline,0.92
+4932,Loved the quality,0.88
+4933,Worst delivery experience,0.95
+4934,Quick resolution,0.92
+4935,Amazing product,0.2
+4936,Unresponsive helpline,0.1
+4937,Worst delivery experience,0.95
+4938,Delay in shipment,0.88
+4939,Delay in shipment,0.9
+4940,Amazing product,0.91
+4941,Packaging was damaged,0.92
+4942,Will not recommend,0.92
+4943,Great support,0.92
+4944,Unresponsive helpline,0.91
+4945,Quick resolution,0.1
+4946,Worst delivery experience,0.95
+4947,Great support,0.92
+4948,Amazing product,0.1
+4949,Loved the quality,0.35
+4950,Will not recommend,0.91
+4951,Loved the quality,0.9
+4952,Packaging was damaged,0.95
+4953,Great support,0.25
+4954,Loved the quality,0.91
+4955,Great support,0.35
+4956,Worst delivery experience,0.92
+4957,Loved the quality,0.25
+4958,Great support,0.35
+4959,Unresponsive helpline,0.35
+4960,Excellent service,0.91
+4961,Quick resolution,0.91
+4962,Packaging was damaged,0.95
+4963,Delay in shipment,0.2
+4964,Will not recommend,0.95
+4965,Loved the quality,0.2
+4966,Delay in shipment,0.9
+4967,Quick resolution,0.2
+4968,Excellent service,0.35
+4969,Great support,0.3
+4970,Great support,0.92
+4971,Great support,0.1
+4972,Quick resolution,0.91
+4973,Worst delivery experience,0.2
+4974,Packaging was damaged,0.9
+4975,Worst delivery experience,0.1
+4976,Amazing product,0.95
+4977,Unresponsive helpline,0.2
+4978,Delay in shipment,0.95
+4979,Worst delivery experience,0.91
+4980,Excellent service,0.9
+4981,Amazing product,0.9
+4982,Great support,0.88
+4983,Amazing product,0.95
+4984,Packaging was damaged,0.91
+4985,Excellent service,0.88
+4986,Excellent service,0.91
+4987,Loved the quality,0.25
+4988,Worst delivery experience,0.92
+4989,Delay in shipment,0.9
+4990,Will not recommend,0.91
+4991,Unresponsive helpline,0.92
+4992,Will not recommend,0.91
+4993,Delay in shipment,0.9
+4994,Worst delivery experience,0.35
+4995,Worst delivery experience,0.2
+4996,Unresponsive helpline,0.9
+4997,Unresponsive helpline,0.2
+4998,Will not recommend,0.2
+4999,Delay in shipment,0.92
+5000,Worst delivery experience,0.1
